@@ -1,0 +1,689 @@
+Case Number,Year,Type,Country,Area,Location,Activity,Sex ,Age,Injury,Fatal (Y/N)
+2012.01.02,2012,Unprovoked,AUSTRALIA,Queensland,Duranbah,Spearfishing,M,34,"No injury, punctures to swim fin",N
+2012.01.03,2012,Unprovoked,AUSTRALIA,New South Wales,North Avoca Beach,Surfing,M,28,Right forearm and wrist injured,N
+2012.01.13,2012,Unprovoked,USA,Oregon,"Lincoln City, Lincoln County",Surfing,M,53,"No injury, surfboard damaged",N
+2012.01.15,2012,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St. Johns",Swimming,M,25,FATAL,Y
+2012.01.18.a,2012,Unprovoked,AUSTRALIA,New South Wales,Redhead Beach,Surfing,M,44,Lacerations to thigh,N
+2012.01.18.b,2012,Provoked,TAIWAN,Taitung ,Taimali,Fishing,M,24,Bitten on left thigh     PROVOKED ACCIDENT,N
+2012.01.19,2012,Unprovoked,AUSTRALIA,Western Australia,Coral Bay,Snorkeling,M,26,Lacerations to right forearm,N
+2012.01.22.R,2012,Unprovoked,BAHAMAS,unknown,Cat Island,"Diving, photographing sharks",M,unknown,"No injury, shark grabbed his camera",N
+2012.01.27,2012,Unprovoked,USA,Hawaii,Lanai,Snorkeling,unknown,unknown,"No injury, shark bit swim fin",N
+2012.02.06,2012,Unprovoked,AUSTRALIA,Queensland,Wurtulla,Surfing,M,29,"No injury, but fin lost from surfboard",N
+2012.02.20,2012,Boat,SOUTH AFRICA,Western Cape Province,Strandfontein,Fishing,unknown,unknown,"No injury to occupants, boat damaged",N
+2012.02.25,2012,Unprovoked,AUSTRALIA,New South Wales,Broughton Island,Fishing,M,unknown,Laceration to left foot,N
+2012.02.26,2012,Provoked,USA,Florida,"Palm Beach Inlet, Palm Beach County",Kite Surfing,M,unknown,Laceration to right foot when he struck a shark PROVOKED INCIDENT,N
+2012.03.01,2012,Provoked,CHILE,Antofagasta Province,Antofagasta,Fishing (illegally),M,unknown,Hand injured PROVOKED INCIDENT,N
+2012.03.03,2012,Invalid,SAUDI ARABIA,Tabuk Province,Off Duba,Attempting to Kite surf from Egypt to Saudi Arabia,M,42,Harassed by sharks but not injured by them,N
+2012.03.04,2012,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Kite Surfing,M,19,Lacerations to left calf,N
+2012.03.05,2012,Unprovoked,REUNION,Saint-Benoit,Port de la Marine,Body boarding,M,31,"No injury, board bitten",N
+2012.03.06.a,2012,Provoked,AUSTRALIA,Victoria,"Shipwreck Cove, Melbourne Aquarium","Diving, feeding sharks",F,34,Superficial lacerations to right side of face PROVOKED ACCIDENT,N
+2012.03.06.b,2012,Unprovoked,NEW ZEALAND,North Island,"Opunake, Taranake",Surfing,M,unknown,Lacerations to left calf,N
+2012.03.14.a,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,17,Bitten on calf,N
+2012.03.14.b,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,15,Bitten on ankle,N
+2012.03.15,2012,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Surfing,M,61,Left forearm bitten,N
+2012.03.20,2012,Unprovoked,AUSTRALIA,Queensland,Nobby's Beach,Surfing,M,20,Lacerations to left calf,N
+2012.03.22,2012,Boat,AUSTRALIA,Western Australia,Kalbarri,Crayfishing,unknown,unknown,"No injury to occupants. Shark bit propelle, rope & crayfish float",N
+2012.03.24,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,Minor lacerations to foot,N
+2012.03.31,2012,Unprovoked,AUSTRALIA,Western Australia,Stratham Beach,Scuba diving,M,33,FATAL,Y
+2012.04.00,2012,Unprovoked,USA,Florida,"Sanibel Island, Lee County",unknown,M,unknown,Right shin bitten,N
+2012.04.03,2012,Unprovoked,USA,Hawaii,"Leftovers near Chun's Reef, Oahu",Surfing,M,28,Lacerations to left foot,N
+2012.04.11,2012,Unprovoked,AUSTRALIA,South Australia,"Dolphin Bay, Innes National Park",Kayaking,M,27,Minor wound to his thigh when shark bit kayak,N
+2012.04.19.a,2012,Unprovoked,SOUTH AFRICA,Western Cape Province,Caves near Kogel Bay,Body boarding,M,20,FATAL,Y
+2012.04.19.b,2012,Unprovoked,USA,Florida,"Indialantic, Brevard County",Surfing,M,28,Lacerations to hand,N
+2012.05.06,2012,Unprovoked,USA,California,Off Catalina Island,Paddle boarding,F,15,"No injury, shark bit paddleboard",N
+2012.05.09,2012,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,F,47,Upper left thigh bitten,N
+2012.05.12,2012,Unprovoked,USA,California,"Leffingwell Landing, Cambria,  San Luis Obispo County",Kayaking / Fishing,M,30,"No injury, kayaker fell in the water when kayak bitten by a shark",N
+2012.05.16,2012,Unprovoked,FIJI,unknown,Matacucu Reef ,Spearfishing,M,20,Lacerations to head,N
+2012.05.20,2012,Unprovoked,USA,Hawaii,"Iroquiois Point, Oahu",Kayak Fishing,M,unknown,"No injury, teethmarks in kayak",N
+2012.05.23,2012,Unprovoked,USA,Florida,"Jacksonville, Duval County",Surfing,M,22,Lacerations to foot,N
+2012.05.29,2012,Unprovoked,MEXICO,Guerrero," Boca de la Leña, La Unión",Free diving / spearfishing,M,46,Left hand severed,N
+2012.05.31,2012,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Wading,F,33,Foot bitten,N
+2012.06.02.a,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,M,25,Severe laceration to foot,N
+2012.06.02.b,2012,Unprovoked,USA,Florida,"Bethune Beach, Volusia County",Surfing,F,12,Laceration to thigh,N
+2012.06.03,2012,Unprovoked,AUSTRALIA,New South Wales,"Redhead Beach, Newcastle",Surf skiing ,M,30,"No injury, ski bitten",N
+2012.06.10,2012,Provoked,ITALY,Sardinia,Muravera,Attempting to rescue an injured & beached shark,M,57,Lower left leg injured PROVOKED ACCIDENT,unknown
+2012.06.12,2012,Unprovoked,AUSTRALIA,Victoria,Port Campbell,Surfing,M,42,Laceration to right foot,N
+2012.06.14.a,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,16,Laceration to right foot,N
+2012.06.14.b,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,unknown,Calf bitten,N
+2012.06.14.c,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,M,unknown,Minor injury,N
+2012.06.14.d,2012,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Swimming,F,18,Foot & hand bitten,N
+2012.06.15,2012,Provoked,USA,Florida,"Summerland Key, Monroe County",Fishing,M,23,Superficial injury to calf by hooked shark PROVOKED ACCIDENT,N
+2012.06.18,2012,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Wading,F,6,Numerous puncture wounds to leg ,N
+2012.06.19,2012,Invalid,USA,South Carolina,"Myrtle Beach, Horry County",Standing,M,16,"Laceration to foot. Injured by a stingray, not a shark",N
+2012.06.20,2012,Unprovoked,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",Surf skiing ,M,62,"No injury, ski severely damaged",N
+2012.06.22.a,2012,Unprovoked,USA,Florida,"Bathtub Reef  Beach, Stuart, Martin County",Swimming,M,12,Minor injury,N
+2012.06.22.b,2012,Unprovoked,AUSTRALIA,Tasmania,South Cape Bay,Surfing,M,unknown,"Knocked off board, shark bit nose off surfboard",N
+2012.06.26.a,2012,Unprovoked,USA,Hawaii,"Kahana Beach, Maui",Sitting in the water,F,16,Laceration to left calf,N
+2012.06.26.b,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,26,Nip to left foot,N
+2012.06.26.c,2012,Unprovoked,USA,Florida,"Juno Beach, Palm Beach County",Swimming,M,6,Thigh bitten,N
+2012.06.28.R,2012,Invalid,CROATIA,unknown,Buccari Bay,Swimming,unknown,60,"Leg struck. Initally reported as a shark attack, but involved a swordfish",N
+2012.07.06,2012,Unprovoked,SOUTH AFRICA,Western Cape Province,"Sandstrand, Jongensfontein",Surfing,M,29,Lacerattions to left thigh & knee,N
+2012.07.07.a,2012,Unprovoked,USA,California,"Pleasure Point, Santa Cruz County",Kayaking,M,52,"No injury, kayak bitten",N
+2012.07.07.b,2012,Invalid,AUSTRALIA,Victoria,Ship's Graveyard off Point Lonsdale,Scuba diving,F,42,Cause of death was drowning & preceded shark involvement,Y
+2012.07.07.c,2012,Unprovoked,BAHAMAS,Eleuthera,unknown,Spearfishing,M,unknown,Lacerations to right leg,N
+2012.07.08,2012,Unprovoked,USA,North Carolina,"North Topsail Beach, Onslow County",Swimming,F,43,Lacerations to right ankle and calf,N
+2012.07.14,2012,Unprovoked,AUSTRALIA,Western Australia,Off Wedge Island,Surfing,M,24,FATAL,Y
+2012.07.19,2012,Invalid,CANADA,British Colombia,"Tofino, Vancouver",Surfing,F,23,"Lacerations to 2 fingers, but shark involvement unconfirmed",N
+2012.07.21,2012,Invalid,TRINIDAD & TOBAGO,Trinidad,"Off Radix Village, Mayoro County",Swimming,M,24,Probable drowning with post-mortem bite,Y
+2012.07.23,2012,Unprovoked,REUNION,Trois-Bassins,unknown,Surfing,M,22,FATAL,Y
+2012.07.24,2012,Invalid,USA,North Carolina,"Ocean Isle, Brunswick County",unknown,M,12,Shark involvement unconfirmed,N
+2012.07.30.a,2012,Unprovoked,USA,Massachusetts,"Ballston Beach, Truro, Cape Cod",Body surfing,M,50,Lacerations to both legs below the knees,N
+2012.07.30.b,2012,Unprovoked,USA,Hawaii,"Maha‘ulepu Beach, Kauai",Surfing,M,44,Left foot bitten,N
+2012.07.31.a,2012,Unprovoked,AUSTRALIA,South Australia,Streaky Bay,Surfing,M,48,Lacerations to torso & arm,N
+2012.07.31.b,2012,Unprovoked,USA,California,"Topanga Beach, Los Angeles County",Surfing,M,17,"No injury, surfer knocked off board when shark struck surfboard",N
+2012.08.04,2012,Unprovoked,FRENCH POLYNESIA,Tuamotus,Kaukura Atoll,Spearfishing,M,unknown,Shoulder bitten,N
+2012.08.05,2012,Unprovoked,REUNION,Saint Leu,unknown,Surfing,M,39,Right hand and foot severed,N
+2012.08.09,2012,Unprovoked,USA,Florida,Key Largo,Free diving ,M,56,Lacerations to little finger of left hand,N
+2012.08.11,2012,Boat,AUSTRALIA,Western Australia,Ocean Reef,Fishing,unknown,unknown,"No injury, shark grabbed outboard motor",N
+2012.08.15,2012,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Wading or swimming,M,31,Lacerations to leg,N
+2012.08.26,2012,Unprovoked,BRAZIL,Pernambuco,"Coral Cove, Cabo de Santo Agostinho",Swimming,M,18,FATAL,Y
+2012.08.28,2012,Unprovoked,AUSTRALIA,Western Australia,Red Bluff near Quobba Station,Surfing,M,34,Lacerations to torso and arm,N
+2012.08.31,2012,Provoked,SCOTLAND,Inner Hebrides,Off the Isle of Islay,Shark fishing,M,53,"No injury, shoe bitten by hooked and landed shark PROVOKED INCIDENT",N
+2012.09.02.1,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Boogie boarding,F,8,Puncture wounds to calf and hand,N
+2012.09.02.2,2012,Provoked,USA,Hawaii,"Spreckelsville, Maui",Spearfishing,unknown,unknown,Minor laceration to hand  PROVOKED INCIDENT,N
+2012.09.02.a,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming or boogie boarding,F,56,Puncture wound to left ankle,N
+2012.09.04,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,32,Puncture wounds to hand,N
+2012.09.06.a,2012,Unprovoked,USA,Florida,"St. Augustine Beach, St. John's County",Surfing,M,37,Lacerations to foot,N
+2012.09.06.b,2012,Unprovoked,USA,Florida,"Neptune Beach, Duval County",Surfing,M,unknown,Right calf bitten,N
+2012.09.08.a,2012,Unprovoked,USA,Florida,"South Beach, Miami-Dade County",Swimming,M,unknown,Lacerations to right calf,N
+2012.09.08.b,2012,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Surfing,M,25,Right foot bitten,N
+2012.09.09,2012,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,unknown,19,Minor injury to elbow,N
+2012.09.10,2012,Unprovoked,TONGA,Vava'u,Eueiki Island,Swimming,F,29,Injuries to thighs & buttocks,N
+2012.09.16,2012,Unprovoked,USA,Florida," Cocoa Beach, Brevard  County",Surfing,M,52,Foot bitten,N
+2012.09.24,2012,Unprovoked,USA,Florida,"Spanish House Beach, Brevard County",Surfing,M,22,Left foot bitten,N
+2012.09.25,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,21,Lacerations to left forearm,N
+2012.10.02,2012,Unprovoked,AUSTRALIA,Western Australia,"Mullaloo Beach, Perth",Bodyboarding,M,11,"No injury, but swim fin bitten & torn",N
+2012.10.07,2012,Unprovoked,USA,California,"Davenport Landing, Santa Cruz County",Windsurfing,M,42,"No ijnury to boardrider, shark struck board breaking the mast",N
+2012.10.11.R,2012,Unprovoked,NIGERIA,Delta,Oboro,Bathing,F,38,Laceration to right leg,N
+2012.10.16,2012,Invalid,USA,Florida,Hobe Sound,unknown,M,unknown,Laceration to toe,N
+2012.10.18.a,2012,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Paddle boarding,M,55,"No injury, board bitten",N
+2012.10.18.b,2012,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,24,Minor bite to ankle,N
+2012.10.19,2012,Unprovoked,USA,Florida,"Seaport, Brevard County",unknown,F,35,Left calf bitten,N
+2012.10.23,2012,Unprovoked,USA,California,"Surf Beach, Lompoc, Santa Barbara County",Surfing,M,39,FATAL,Y
+2012.10.27,2012,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Swimming,F,51,"Puncture wounds to thigh, defense wounds  to hand",N
+2012.10.30,2012,Unprovoked,USA,California,"Humboldt Bay, Eureka, Humboldt County",Surfing,M,25,Multiple lacerations to torso,N
+2012.11.04.a,2012,Unprovoked,USA,Hawaii,"Davidson's Surf Break, Kekaha, Kaua'i",Surfing,M,43,"No injury, surfboard bitten",N
+2012.11.04.b,2012,Unprovoked,USA,Hawaii,"Makena Landing, Maui",Diving,M,30,Right lower leg and foot bitten,N
+2012.11.19,2012,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,14,Minor lacerations to left foot & heel,N
+2012.11.22,2012,Unprovoked,MEXICO,Sinaloa,Nuevo Altata,Swimming,M,32,FATAL,Y
+2012.11.27,2012,Invalid,AUSTRALIA,Queensland,Mooloolaba,unknown,M,20,"Injury to ankle caused  by a stingray, not a shark",N
+2012.11.30,2012,Unprovoked,USA,Hawaii,"Kihei, Maui",Snorkeling,M,61,Lacerations to thigh & lower left leg,N
+2012.12.00,2012,Unprovoked,NEW ZEALAND,South Island,"Sunday Cove, Fiordland",Scuba diving,F,25,"No injury, shark grabbed hood",N
+2012.12.02,2012,Unprovoked,AUSTRALIA,New South Wales,Green Island,Spearfishing,M,31,Minor puncture wounds to knee,N
+2012.12.05,2012,Unprovoked,USA,Hawaii,Kauai,Surfing,M,60,Lacerations to left foot,N
+2012.12.19,2012,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Surfing,M,32,No injury,N
+2012.12.25,2012,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,M,20,FATAL,Y
+2012.12.28,2012,Unprovoked,AUSTRALIA,New South Wales,"Kylie's Beach, Diamond Head",Paddle boarding,M,29,Lacerations to thigh and hand,N
+2012.12.30,2012,Unprovoked,AUSTRALIA,New South Wales,Between Dee Why and Long Reef,Surfing,M,23,"No injury, chunk missing from surfboard",N
+2012.12.31,2012,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,unknown,Lower leg or ankle bitten,N
+2013.01.05,2013,Unprovoked,AUSTRALIA,Western Australia,Near Legendre Island,Spearfishing / Free diving,M,26,Calf & shin bitten ,N
+2013.01.13,2013,Unprovoked,NEW ZEALAND,Mercury Islands,Great Mercury Island,Spearfishing,M,unknown,Minor cut on finger,N
+2013.01.16,2013,Unprovoked,USA,Hawaii,Kiholo Bay,Surfing,M,43,Left forearm bitten ,N
+2013.01.21.R,2013,Invalid,AUSTRALIA,Queensland,Bullcock Beach,Dragging stranded shark into deeper water,M,62,"No injury, a 3 m blue shark merely snapped at the man.",N
+2013.01.25,2013,Unprovoked,AUSTRALIA,Queensland,Noosa,Surfing,M,unknown,Lacerations to neck,N
+2013.01.26,2013,Boat,AUSTRALIA,Victoria,Cape Nelson,Fishing,M,unknown,"No injury to occupants, shark bit propeller",N
+2013.02.01,2013,Unprovoked,JAMAICA,Kingston Parish,Pedro Cays,unknown,M,18,Knee bitten,N
+2013.02.09,2013,Unprovoked,FRENCH POLYNESIA,Society Islands,"Tapu, a dive site on the outer reefs of Bora Bora",Scuba diving,M,48,Lacerations to right arm & thigh,N
+2013.02.10,2013,Unprovoked,USA,Florida,"""Stuart Rocks"", Martin County",Surfing,M,16,Lacerations to right hand,N
+2013.02.21.a,2013,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Surfing,M,unknown,"No injury, shark bit rail of foam board",N
+2013.02.21.b,2013,Unprovoked,USA,Hawaii,"Ka'anapali, Honokowai, Maui",Surfing,unknown,unknown,Lacerations to right leg,N
+2013.02.27,2013,Unprovoked,NEW ZEALAND,North Island,Muriwai,Swimming,M,46,FATAL,Y
+2013.03.03,2013,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Swimming,M,39,Injuries to arms & hands,N
+2013.03.10.a,2013,Unprovoked,PHILIPPINES,Palawan,Off Likas Island,Swimming to shore with floatioon devices after boat engine conked out,M,unknown,Minor leg injuries,N
+2013.03.10.b,2013,Unprovoked,AUSTRALIA,Western Australia,African Reef off Geraldton,Spearfishing,M,28,Laceration to left hand,N
+2013.03.12,2013,Unprovoked,JAMAICA,St. Catherine,Pillikin Red Light area ,Spearfishing,M,68,FATAL,Y
+2013.03.16.a,2013,Unprovoked,SOUTH AFRICA,Western Cape Province,Hawston Beach,Surfing,M,unknown,"No injury, surfboard bitten",N
+2013.03.16.b,2013,Provoked,SOUTH AFRICA,Western Cape Province,De Mond,Fishing - 'tag & release',M,30,Lacerations to left calf and heel from hooked shark PROVOKED INCIDENT,N
+2013.03.21,2013,Unprovoked,BAHAMAS,Eleuthera,Savannah Sound,Fly fishing,M,50,Left foot bitten,N
+2013.03.21.R,2013,Unprovoked,BELIZE,unknown,unknown,Snorkeling,F,unknown,Toe injured,N
+2013.03.29,2013,Unprovoked,SEYCHELLES,unknown,Ile Platte,Free diving,M,34,Lacerations to left foot,N
+2013.03.31,2013,Invalid,AUSTRALIA,New South Wales,Terrigal Beach,Surfing,M,47,Never happened; it was a  hoax,N
+2013.04.02.a,2013,Unprovoked,USA,Hawaii,Ka’anapali Shores,Surfing,M,58,Right thigh bitten,N
+2013.04.02.R,2013,Invalid,AUSTRALIA,Western Australia,Perth,unknown,M,24,Disappeared. No evidence that he was taken by a shark,Y
+2013.04.04,2013,Unprovoked,USA,Florida,"Jensen Beach, Martin County ",Swimming,M,50,Lacerations to hand,N
+2013.04.10,2013,Unprovoked,FRENCH POLYNESIA,Tuamotus,"North Pass, Fakarava",Kite boarding,M,53,"Underside of board, fins and, harness were damaged, and left  hip, thigh and buttock sustained puncture wounds",N
+2013.04.13.a,2013,Unprovoked,GUAM,unknown,unknown,unknown,M,40,FATAL,Y
+2013.04.13.b,2013,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,Minor lacerations to right hand,N
+2013.04.14,2013,Unprovoked,SOUTH AFRICA,Western Cape Province,False Bay,Free diving,M,unknown,"""Light scratch on hand/wrist area""",N
+2013.04.17,2013,Unprovoked,USA,Florida,"Near Boynton Beach, Palm Beach County",Playing in the surf,M,9,Lacerations to right foot,N
+2013.04.21,2013,Unprovoked,AUSTRALIA,New South Wales,Crowdy Head,Fishing,M,51,Puncture wounds and lacerations to both legs,N
+2013.04.24,2013,Unprovoked,MEXICO,Quintana Roo,"Seagull Beach, Cancun",Swimming,F,34,Avulsion injury  to lower right leg,N
+2013.04.28,2013,Provoked,AUSTRALIA,New South Wales,Emerald Beach,Fishing,M,unknown,Foot bitten by landed shark PROVOKED INCIDENT,N
+2013.05.04.a,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,16,Lacerations to left foot and ankle,N
+2013.05.08.a,2013,Unprovoked,REUNION,Saint-Gilles,Brisant Beach,Body boarding,M,36,FATAL,Y
+2013.05.08.b,2013,Invalid,USA,California,"Tourmaline Surf Park, San Diego County",Surfing,M,42,Shark bites were post-mortem,Y
+2013.05.14,2013,Unprovoked,ECUADOR,Santa Cruz Island,"Playa Brava, Turtle Bay",Surfing,M,29,Superficial injury to left calf,N
+2013.05.23.a,2013,Provoked,PALESTINIAN TERRITORIES,unknown,Gaza,Fishing,M,30,Two fingers lost PROVOKED INCIDENT,N
+2013.05.23.b,2013,Unprovoked,BRAZIL,Pernambuco,Coral Cove Beach,unknown,M,41,FATAL,Y
+2013.05.27.a,2013,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,11,Right foot bitten,N
+2013.05.27.b,2013,Unprovoked,USA,Hawaii,"Halewia, Oahu",Diving,M,32,Lacerations to right hand,N
+2013.06.06.a,2013,Unprovoked,AUSTRALIA,New South Wales,Target Beach,Surfing,M,unknown,"No injury, board damaged",N
+2013.06.06.b,2013,Provoked,USA,Florida,"Off Snipe Point, Florida Keys, Monroe County",Fishing for sharks,M,58,Left hand bitten as he attempted to remove hook from shark PROVOKED INCIDENT,N
+2013.06.14.R,2013,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",Boogie Boarding,F,10,Puncture marks to hand,N
+2013.06.15,2013,Unprovoked,USA,Florida,"Atlantic Beach, Duval County",Surfing,F,unknown,Lacerations to left ankle,N
+2013.06.16,2013,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Queensberry Bay,Surfing,M,unknown,Lacerations to knee,N
+2013.06.17,2013,Unprovoked,USA,Texas,"Surfside Beach, Brazoria County",Swimming,M,15,Left leg & hand bitten,N
+2013.06.18,2013,Unprovoked,USA,Hawaii,Kona Coast State Park,Swimming,M,28,Right thigh & calf bitten,N
+2013.06.25.a,2013,Unprovoked,USA,South Carolina,"Kiawah Island, Charleston County",Swimming,M,14,"Bitten on lower right leg, reported as a minor injury",N
+2013.06.25.b,2013,Unprovoked,USA,Florida,"Jacksonville, Duval County",Swimming,M,unknown,Lacerations to left foot,N
+2013.06.25.c,2013,Unprovoked,USA,California,"Pacific State , San Mateo County",Kayaking / Fishing,M,unknown,"No injury, kayak scratched",N
+2013.06.27,2013,Invalid,JAMAICA,Kingston Parish,Port Royal,unknown,M,20,Probable drowning with post-mortem bites,Y
+2013.06.30,2013,Unprovoked,TAIWAN,Taitung ,unknown,Fishing,M,unknown,Right thigh bitten,N
+2013.07.02,2013,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Body surfing,M,29,"No injury, holes in wetsuit ",N
+2013.07.09,2013,Invalid,SPAIN,Catalonia,"Sant Marti d’Empuries Beach, L’Escala",Swimming,M,48,"Scrape to right forearm. Frennet says inflicted by a blue shark, but authorities question shark involvement",N
+2013.07.11,2013,Unprovoked,USA,North Carolina,Holden Beach. Brunswick County,Wading,F,63,Right foot bitten,N
+2013.07.14,2013,Unprovoked,DIEGO GARCIA,unknown,unknown,Swimming,M,33,FATAL,Y
+2013.07.15,2013,Unprovoked,REUNION,Saint-Paul,Le cimetière marin,Swimming & snorkeling,F,15,FATAL,Y
+2013.07.17.R,2013,Unprovoked,USA,Florida,"Butler Beach, St Augustine,       St. Johns County",Swimming ,M,unknown,4 cuts to posterior calf,N
+2013.07.19,2013,Unprovoked,USA,Alabama,"Gulf Shores, Baldwin County",Walking in surf,F,50,Lacerations and abrasions to foot and ankle,N
+2013.07.22,2013,Unprovoked,BRAZIL,Pernambuco,"Boa Viagem Beach, Recife",Swimming,F,18,FATAL,Y
+2013.07.28.a,2013,Unprovoked,BAHAMAS,Abaco Islands,Grand Cay,Diving,M,50,Bitten on rear lower extremities,N
+2013.07.28.b,2013,Unprovoked,BAHAMAS,Exuma Islands,Compass Cay,Cleaning fish,M,64,Bitten on left hand,N
+2013.07.29.a,2013,Unprovoked,USA,Hawaii,"White Plains Beach, Oahu",Surfing,M,18,Lower leg bitten,N
+2013.07.29.b,2013,Unprovoked,MEXICO,Quintana Roo,unknown,Wading,F,unknown,Hip bitten,N
+2013.07.29.c,2013,Unprovoked,BAHAMAS,Abaco Islands,Scotland Cay,Spearfishing,M,40,Leg bitten,N
+2013.07.30,2013,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Swimming,M,32,Foot bitten,N
+2013.07.31,2013,Unprovoked,USA,Hawaii,"Ulua Beach, Maui",Snorkeling,F,56,"Lacerations to hand, face and torso",N
+2013.08.05,2013,Unprovoked,USA,Florida,"Sanibel Island, Lee County",Fishing,M,17,Minor injury to foot & shin,N
+2013.08.08.R,2013,Unprovoked,SOUTH AFRICA,unknown,unknown,Attempting to free the shark,M,unknown,"Unknown, but survived",N
+2013.08.11,2013,Unprovoked,USA,South Carolina,Folly Beach,Surfing,M,10,"No injury, shark became entangled in his surfboard leash",N
+2013.08.13,2013,Unprovoked,USA,Hawaii,"Ka'a Point, Maui",Kiteboarding,F,19,No injury & not on board. Board adrift when bitten by shark,N
+2013.08.14,2013,Unprovoked,USA,Hawaii,"Makenat, Maui",Snorkeling,F,20,FATAL,Y
+2013.08.17,2013,Unprovoked,USA,California,"Pillar Point, Half-Moon Bay, San Mateo County",Surfing,F,unknown,"No injury, shark bumped surfboard",N
+2013.08.18,2013,Unprovoked,USA,Hawaii,Pohoiki ,Surfing,M,16,Lacerations to buttocks & thigh,N
+2013.08.25,2013,Unprovoked,AUSTRALIA,New South Wales,Smiths,Wrangling a shark,M,unknown,Lacerations to left forearm,N
+2013.08.25.b,2013,Unprovoked,USA,Florida,"Winterhaven Park,           Ponce Inlet, Volusia County",Boogie boarding,F,11,Minor injury to left lower leg & heel,N
+2013.08.26,2013,Provoked,FRANCE,Bay of Biscay,unknown,Longline fishing for sharks,M,50,Laceration to right arm from hooked shark  PROVOKED INCIDENT,N
+2013.08.29,2013,Invalid,USA,California,Catalina Channel,Marathon swimming,F,47,"Puncture wound to torso. Reported as a bite by a leopard shark, the tooth fragment appears to be that of a bony fish",N
+2013.08.31.a,2013,Unprovoked,USA,California,"Butterfly Beach, Montecito, Santa Barbara County",Swimming,M,unknown,Foot bitten,N
+2013.08.31.b,2013,Unprovoked,BAHAMAS,unknown,Freetown Beach,Spearfishing,M,unknown,Lower left leg bitten,N
+2013.09.01.a,2013,Unprovoked,USA,Florida,"St Augustine Beach, St Johns County",Casting a net,M,9,Lacerations to left calf,N
+2013.09.01.b,2013,Unprovoked,BAHAMAS,unknown,unknown,unknown,M,unknown,Leg injured,N
+2013.09.01.c,2013,Provoked,USA,Florida,Key West Aquarium,unknown,M,3,Arm bitten by captive shark PROVOKED INCIDENT,N
+2013.09.02,2013,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,17,Shoulder bitten,N
+2013.09.07.a,2013,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Standing,M,25,"Minor injury, shin bitten",N
+2013.09.07.b,2013,Provoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,M,43,Foot bitten when he accidentally jumped onto the shark PROVOKED INCIDENT,N
+2013.09.08,2013,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",unknown,F,unknown,No details,unknown
+2013.09.12,2013,Unprovoked,USA,Florida,"New Smyrna Beach,  Volusia County",Surfing,F,13,Heel bitten,N
+2013.09.14,2013,Unprovoked,USA,Florida,"Casino Beach, Pensacola, Escambia County",Swimming,M,21,Lacerations to right foot,N
+2013.09.21.a,2013,Unprovoked,USA,Florida,"Carlin Park, Jupiter, Palm Beach County",Surfing,M,unknown,Lacerations to left foream,N
+2013.09.21.b,2013,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Swimming,M,45,Lacerations to right foot,N
+2013.09.25,2013,Unprovoked,USA,Florida,"Panama City, Bay County",Standing,M,7,Laceration and puncture wounds to ankle,N
+2013.09.29.a,2013,Provoked,ISRAEL,Southern District,Ashdod,Diving,M,27,Hand bitten PROVOKED INCIDENT,N
+2013.09.29.b,2013,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Surfing,M,50,Lacerations to hand,N
+2013.10.05.1,2013,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,M,45,Laceration to thigh,N
+2013.10.05.2,2013,Unprovoked,USA,Florida,"Destin, Okaloosa County",Wading,M,12,Lacerations to  right forearm,N
+2013.10.08,2013,Unprovoked,AUSTRALIA,Western Australia,"Off Poison Creek, Cape Arid",Diving for Abalone,M,55,"Injuries to torso, head and face",N
+2013.10.11,2013,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Albatros Point, near Jeffrey's Bay",Swimming / snorkeling,M,74,FATAL,Y
+2013.10.19,2013,Unprovoked,USA,Florida,Miami Beach,Wading,M,6,Bitten on left calf & foot,N
+2013.10.20,2013,Unprovoked,USA,Hawaii,"Pila'a Beach, Kaua'i",Surfing,M,25,"No injury, shark bit surfboard",N
+2013.10.23,2013,Unprovoked,USA,Hawaii,"Waiehu, Maui",Diving ,M,45,"3"" laceration to left hip",N
+2013.10.24,2013,Unprovoked,AUSTRALIA,New South Wales,South Narrabeen Beach,Surfing,M,41,Injuries to right foot,N
+2013.10.26.a,2013,Unprovoked,AUSTRALIA,Western Australia,"Little Island, near Hillarys",Diving for crayfish,M,unknown,"No injury, swim fin shredded",N
+2013.10.26.b,2013,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Body boarding,M,24,Right leg severed,N
+2013.10.28,2013,Unprovoked,AUSTRALIA,Western Australia,Turquoise Bay,Snorkeling,F,60,Lacerations to right arm,N
+2013.10.31,2013,Unprovoked,USA,Hawaii,"Kanaha Beach, Maui",Kiteboarding,M,46,Severe bite to right calf & anklel,N
+2013.11.07.a,2013,Unprovoked,USA,Florida,"Floridana Beach, Brevard County",Surfing,M,unknown,Foot bitten,N
+2013.11.07.b,2013,Unprovoked,USA,New Jersey,"Bay Head, Ocean County",Body boarding,M,16,"No injury, swim fin bitten",N
+2013.11.10,2013,Provoked,BAHAMAS,unknown,Off Cape Eleuthera,Shark fishing,M,77,Injuries to arm & leg by hooked shark   PROVOKED INCIDENT,N
+2013.11.12,2013,Unprovoked,AUSTRALIA,Western Australia,"Trigg Beach, Perth",Surfing,M,unknown,"No injury, board bumped by shark",N
+2013.11.22,2013,Unprovoked,USA,Oregon,"Gleneden Beach, Lincoln County",Surfing,M,25,"No injury, board bitten",N
+2013.11.23.a,2013,Unprovoked,AUSTRALIA,Western Australia,Gracetown,Surfing,M,35,FATAL,Y
+2013.11.29,2013,Unprovoked,USA,Hawaii,"Keawekapu Beach, Kihei, Maui",Snorkeling,F,58,Right calf bitten,N
+2013.11.30,2013,Unprovoked,AUSTRALIA,New South Wales,"Riecks Point,  Campbell’s Beach, ",Body boarding,M,19,FATAL,Y
+2013.12.02,2013,Unprovoked,USA,Hawaii,"Between  Makena & Molokini, Maui",Kayaking / Fishing,M,57,FATAL,Y
+2013.12.05,2013,Unprovoked,AUSTRALIA,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,M,26,"Puncture wounds to hand, laceration to leg",N
+2013.12.10,2013,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Surfing,M,30,Right foot bitten,N
+2013.12.11,2013,Unprovoked,USA,Hawaii,"Ninole Bay, Hawaii County",Boogie boarding,M,29,Lacerations to right hand & knee,N
+2013.12.13,2013,Unprovoked,KIRIBATI,740 miles SE of Tarawa Atoll,unknown,Attempting to remove fishing net from submerged object,M,35,Severe injury to arm,N
+2013.12.16,2013,Unprovoked,SOUTH AFRICA,Western Cape Province,Die Platt,Surfing,M,19,Injuries to left thigh,N
+2013.12.25,2013,Unprovoked,NEW CALEDONIA,North Province,"Lindéralique, Hienghène",Snorkeling,M,37,Leg bitten,N
+2014.00.00,2014,Boat,NEW ZEALAND,unknown,Stewart Island,Filming a documentary,unknown,unknown,"No injury to occupants, shark nudged and bit boat",N
+2014.01.04,2014,Sea Disaster,JAPAN,Okinawa Prefecture,Off Miyako Island,Sea disaster,M,31,5 cm bite to left foot,N
+2014.01.25,2014,Unprovoked,NEW ZEALAND,South Island,Garden Bay near Cosy Nook,Spearfishing,M,24,Minor injury to left lower leg & heel,N
+2014.01.26,2014,Provoked,AUSTRALIA,New South Wales,Umina Beach,Fishing,M,unknown,Lacerations to ring and pinky fingers of his left hand by hooked shark PROVOKED INCIDENT,N
+2014.02.07,2014,Unprovoked,NEW ZEALAND,South Island,Porpoise Bay,Surfing,M,28,Lacerations to leg,N
+2014.02.07.b,2014,Provoked,TRINIDAD & TOBAGO,Trinidad,unknown,Fishing,M,unknown,Possibly a PROVOKED INCIDENT,N
+2014.02.08,2014,Unprovoked,AUSTRALIA,South Australia,"Goldsmith Beach, Yorke Peninsula",Spearfishing / Free diving,M,28,FATAL,Y
+2014.02.17,2014,Boat,PAPUA NEW GUINEA,unknown,unknown,Sailing,M,21,"No injury to occupants, hull bitten",N
+2014.02.20,2014,Unprovoked,FRENCH POLYNESIA,Society Islands,Huahine,Kitesurfing,M,21,Lacerations to lower leg,N
+2014.03.02,2014,Unprovoked,USA,Florida,"Santa Lucea Beach, South Hutchinson Island, St. Lucie County",Surfing,M,21,Lacerations to toes,N
+2014.03.12,2014,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Swimming,M,unknown,Minor lacerations to foot,N
+2014.03.13,2014,Invalid,CAYMAN ISLANDS,unknown,unknown,Scuba diving / culling lionfish,M,unknown,"Caribbean reef shark buzzed him. No injury, no attack. ",N
+2014.03.18,2014,Invalid,AUSTRALIA,New South Wales,Lennox Head,unknown,F,10,"Injuries to wrist/hand by a mackerel, not a shark",N
+2014.03.18.b,2014,Unprovoked,AUSTRALIA,Victoria,Winkipop Beach,Surfing,M,42,Shark leapt onto surfboard; surfer uninjured ,N
+2014.03.18.c,2014,Unprovoked,NEW CALEDONIA,Baie de Sainte-Marie,unknown,Kite Surfing,M,42,Lacerations to calf,N
+2014.03.21,2014,Unprovoked,USA,Florida,Macarthur State Park,Surfing,M,9,Lacerations to toes and heel of right foot,N
+2014.03.22.a,2014,Unprovoked,USA,Florida,Delray Beach,Kite Surfing,M,unknown,Lacerations to left forearm,N
+2014.03.22.b,2014,Unprovoked,SOUTH AFRICA,Eastern Cape Province,"Second Beach, Port St Johns",Swimming,M,66,FATAL,Y
+2014.03.29,2014,Invalid,AUSTRALIA,Western Australia,Off Dawesville Cut,Diving for lobsters,M,38,Shark bites may have been post mortem,Y
+2014.04.03,2014,Unprovoked,AUSTRALIA,New South Wales,Tathra,Swimming,F,63,FATAL,Y
+2014.04.04.a,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,unknown,Lacerations to foot,N
+2014.04.04.b,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,unknown,Minor puncture wounds to lower left leg,N
+2014.04.12,2014,Provoked,SOUTH AFRICA,Eastern Cape Province,Port Alfred,Fishing,M,unknown,Lacerations to leg & hand by hooked shark PROVOKED INCIDENT,N
+2014.04.12.R,2014,Boat,SOUTH AFRICA,unknown,unknown,Shark watching,unknown,unknown,"No injury to occupants, shark bit pontoon",N
+2014.04.15,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,M,25,Minor lacerations to left foot,N
+2014.04.22,2014,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M,42,Laceration & puncture wounds to right foot,N
+2014.04.24,2014,Unprovoked,AUSTRALIA,Western Australia,"South Passage, south of Coral Bay",Spearfishing,M,unknown,Minor injury,N
+2014.05.01,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,23,Laceration to right hand and cuts on fingertips,N
+2014.05.04,2014,Unprovoked,SOUTH AFRICA,Western Cape Province,Simonstown,Diving,unknown,unknown,4-inch laceration to arm,N
+2014.05.06,2014,Unprovoked,USA,South Carolina,"Coligny Beach, Hilton Head, Beaufort County",Swimming,F,40,Lacerations to left foot,N
+2014.05.10.R,2014,Invalid,USA,Florida,"Bethel Shoals, Indian River County",Diving,M,unknown,"No injury. No attack. 12' white shark appeared curious, not aggressive & departed when prodded by spear",N
+2014.05.11,2014,Unprovoked,USA,Georgia,"Tybee Island, Chatham County",Surfing,M,12,Puncture wounds to right thigh,N
+2014.05.13,2014,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Wading,F,44,Lacerations and puncture wounds to right foot,N
+2014.05.14,2014,Unprovoked,AUSTRALIA,South Australia,"Elliston, Eyre Peninsula",Surfing,M,35,"No injury, but surfboard severely damaged",N
+2014.05.15,2014,Unprovoked,USA,Florida,"Juan Ponce de León Landing, Melbourne Beach, Brevard County",Body boarding,F,38,Calf bitten,N
+2014.05.22,2014,Provoked,AUSTRALIA,New South Wales,The Australian Shark and Ray Centre,Teasing a shark,M,10,Cut to tip of finger by a captive shark PROVOKED INCIDENT,N
+2014.05.23,2014,Unprovoked,FRANCE,Wallis and Futuna,Wallis Island,Scuba diving,M,unknown,Lacerations to left thigh and hip,N
+2014.05.27.R,2014,Unprovoked,AUSTRALIA,Queensland,Nerang River near Chevron Island,Fell into the water,F,29,Lacerations to legs,N
+2014.06.01.a,2014,Unprovoked,USA,Palmyra Atoll,unknown,Tagging sharks,F,37,Laceration to left hand,N
+2014.06.01.b,2014,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Gerroa",Surfing,M,unknown,Lacerations & puncture wounds to ankle and foot,N
+2014.06.01.c,2014,Unprovoked,USA,Florida,Fort Lauderdale,Swimming,F,22,Laceration to right lower leg,N
+2014.06.07,2014,Unprovoked,USA,Texas,"West Beach, Galveston",Kneeling in the water,F,14,Shallow lacerations & puncture wounds below shoulder,N
+2014.06.08,2014,Unprovoked,JAPAN,Atsumi peninsula,Aichi,Surfing,M,43,Left arm bitten,N
+2014.06.09.a,2014,Unprovoked,AUSTRALIA,South Australia,"Parsons Beach,  Fleurieu Peninsula",Body boarding,M,39,Minor injury to torso,N
+2014.06.09.b,2014,Unprovoked,USA,Delaware,"Cape Henlopen State Park, Sussex County",Standing,M,16,"Abrasion to right hand, lacerations to left forearm",N
+2014.06.09.c,2014,Unprovoked,BRAZIL,unknown,500 km off the coast of Pernambuco,Fishing,M,43,Severe injury to arm,N
+2014.06.17.R,2014,Provoked,AUSTRALIA,Western Australia,Horizontal Falls,Petting a shark,M,unknown,Lacerations to right hand by captive shark PROVOKED INCIDENT,N
+2014.06.18.a,2014,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Body boarding,M,15,Lacerations to knee,N
+2014.06.18.b,2014,Unprovoked,AUSTRALIA,South Australia,"Middleton Point, Fleurieu Peninsula",Surfing,M,unknown,"No injury, surfboard 'attacked'",N
+2014.06.25,2014,Unprovoked,BAHAMAS,Abaco Islands,unknown,Spearfishing,M,42,No injury but shark took his pole spear,N
+2014.06.27.R,2014,Boat,ST. MARTIN,unknown,20 miles from shore,Transatlantic Rowing,M,48,His boat was holed by a shark,N
+2014.07.03,2014,Unprovoked,USA,South Carolina,"Isle of Palms, Charleston County",Body surfing,M,19,Right hand bitten,N
+2014.07.05.a,2014,Unprovoked,USA,California,"Oceano Dunes State Beach, San Luis Obispo County",Surfing,M,unknown,"No injury, surboard bitten",N
+2014.07.05.b,2014,Provoked,USA,California,"Manhattan Beach, Los Angeles County",Swimming,M,unknown,PROVOKED INCIDENT Torso bitten by shark hooked by an angler,N
+2014.07.09,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,Lacerations to foot,N
+2014.07.12,2014,Unprovoked,USA,North Carolina,"Masonboro Island, New Hanover County",Body surfing,M,unknown,Lacerations to hand and wrist,N
+2014.07.13,2014,Invalid,BAHAMAS,West End,Tiger Beach,Shark diving,M,63,"Missing after a dive, shark involvement considered probable, but not confirmed",Y
+2014.07.14,2014,Unprovoked,USA,Florida,Okaloosa Island,Swimming,M,39,Puncture wounds to foot,N
+2014.07.16,2014,Unprovoked,USA,Hawaii,"Paia Bay, Maui",Swimming,M,61,Lacerations to left foot,N
+2014.07.20,2014,Unprovoked,SPAIN,Canary Islands,"Teresita, Santa Cruz, Tenerife",Wading,unknown,unknown,Minor injury,N
+2014.07.21,2014,Unprovoked,USA,Florida,"Indialantic, Brevard County",Standing,M,8,Lacerations to right knee,N
+2014.07.22,2014,Unprovoked,REUNION,Saint-Leu,unknown,Surfing,M,51,Lacerations to right wrist & calf,N
+2014.07.27,2014,Unprovoked,USA,North Carolina,"Sunset Beach, Brunswick County",Swimming,M,unknown,Left foot bitten,N
+2014.08.01,2014,Unprovoked,SOUTH AFRICA,Western Cape Province,Muizenberg,Surfing,M,20,Lower limbs & thigh bitten,N
+2014.08.02.1,2014,Unprovoked,USA,Florida,"South of Cocoa Beach, Brevard County",Surfing,M,unknown,Foot bitten,N
+2014.08.02.2,2014,Unprovoked,USA,Florida,"Table Beach, Brevard County",Boogie boarding,M,8,Laceration to ankle,N
+2014.08.05,2014,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,F,45,Lacerations to  foot,N
+2014.08.06,2014,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Boogie boarding,M,10,Lacerations to right leg & foot,N
+2014.08.08,2014,Unprovoked,USA,Louisiana,"Lake Ponchartain off Southshore Harbor, New Orleans",Swimming,M,7,Minor lacerations to left heel and big toe,N
+2014.08.09,2014,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Swimming,F,10,Puncture wounds to right foot & ankle,N
+2014.08.09.R,2014,Unprovoked,BAHAMAS,unknown,unknown,Spearfishing,M,unknown,Puncture wounds to right foot and ankle,N
+2014.08.10,2014,Unprovoked,USA,Florida,"Hallandale Beach, Broward County",unknown,M,26,Puncture wounds & lacerations to foot,N
+2014.08.12,2014,Unprovoked,USA,Florida,"3 to 4 miles west of Indian Pass, Gulf County",Standing,M,unknown,Puncture wounds and lacerations to left thigh and knee,N
+2014.08.16,2014,Unprovoked,AUSTRALIA,Western Australia,Gnaraloo,Spearfishing,M,31,Lacerations to face and neck,N
+2014.08.24,2014,Unprovoked,USA,North Carolina,"Off Masonboro Island, New Hanover County",Kite boarding,unknown,unknown,Laceration to left foot,N
+2014.08.25,2014,Provoked,USA,Florida,Apalachicola Bay ,Fishing for sharks,M,unknown,Lacerations to forearm from hooked shark PROVOKED INCIDENT,N
+2014.08.27.a,2014,Unprovoked,USA,South Carolina,"Surfside Beach, Horry  County",Standing,F,unknown,Heel bitten,N
+2014.08.27.b,2014,Unprovoked,USA,North Carolina,"Figure Eight Island,  New Hanover County",Surfing,M,29,Laceration to left hand,N
+2014.08.27.c,2014,Unprovoked,SPAIN,Alicante,Benidorm,Swimming,F,unknown,Minor lacerations to posterior lower leg,N
+2014.08.28,2014,Provoked,USA,Maryland,Assateague National Seashore,Fishing,M,33,Lacerations to foot by hooked shark PROVOKED INCIDENT,N
+2014.08.29.a,2014,Invalid,USA,Florida,"Atlantic Beach, Duval County",unknown,unknown,unknown,Shark involvement not confirmed,N
+2014.08.29.b,2014,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,17,Lacerations to shin,N
+2014.08.31,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body surfing,F,13,Injury to left calf,N
+2014.09.00,2014,Unprovoked,SPAIN,Catalonia,Salou,Playing with an air mattress,M,16,Lacerations to right hand,N
+2014.09.02,2014,Provoked,USA,Florida,"Fletcher Beach, Hutchinson Island, Martin County",Fishing,M,52,Bitten twice on the leg by a shark he was attempting to free from his line PROVOKED INCIDENT,N
+2014.09.03,2014,Unprovoked,USA,Massachusetts,"Manomet Point, Plymouth, Plymouth County",Kayaking ,F,unknown,"No injury, shark bit kayak",N
+2014.09.06,2014,Unprovoked,USA,Alabama,"Katrina Cut, Dauphin Island, Mobile County",Fishing ,M,43,Leg bitten,N
+2014.09.09,2014,Unprovoked,AUSTRALIA,New South Wales,"Clarkes Beach, Byron Bay",Swimming,M,50,FATAL,Y
+2014.09.13,2014,Invalid,USA,California,"Manresa State Beach, Santa Cruz County",Surfing,M,unknown,"A hoax, no shark involvement",N
+2014.09.13.R,2014,Unprovoked,FRENCH POLYNESIA,Moorea,Tiahura Lagoon,Feeding fish,F,36,Thumb & finger nipped,N
+2014.09.21,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,unknown,Minor injury to left foot,N
+2014.10.02.a,2014,Unprovoked,AUSTRALIA,Western Australia,"Kelpids Beach, Wylie Bay, Esperance",Surfing,M,23,"Left arm & right hand severed, lacerations to both legs",N
+2014.10.02.b,2014,Unprovoked,USA,California,"Walls Beach, Vandenberg AFB, Santa Barbara County",Surfing,M,28,Lacerations to knee,N
+2014.10.03.a,2014,Boat,USA,California,Santa Barbara County,Kayaking ,M,unknown,"No injury to occupant, shark/s holded  kayak",N
+2014.10.03.b,2014,Boat,USA,California,Santa Barbara County,Kayaking,M,unknown,"No injury to occupant, shark/s holded  kayak",N
+2014.10.05.a,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15,Foot bitten,N
+2014.10.05.b,2014,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,29,Foot bitten,N
+2014.10.07,2014,Unprovoked,USA,Florida,"Cherie Down Park, Brevard County",Fishing,F,40,Thigh bitten,N
+2014.10.11,2014,Boat,AUSTRALIA,Western Australia,"Castle Rock, north of Dunsborough",Kayaking,M,unknown,"Kayak deflated, no injury to occupants",N
+2014.10.12,2014,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Body surfing or Boogie boarding,F,unknown,Laceration to right hand/wrist,N
+2014.10.14,2014,Unprovoked,USA,South Carolina,"Hilton Head Island, Beaufort County",Standing in inner tube,F,7,Lacerations to left foot,N
+2014.10.17,2014,Unprovoked,AUSTRALIA,New South Wales,Avoca Beach,Surfing,F,13,"Lacerations to left calf & ankle, puncture wounds to left foot",N
+2014.10.18,2014,Unprovoked,USA,Hawaii,"Maalaea, South Maui",Surfing,M,unknown,"No injury, surfboard bitten",N
+2014.10.19,2014,Boat,USA,California,"Leadbetter Beach, Santa Barbara County",Canoeing,F,unknown,"No injury to occupant, canoe bitten",N
+2014.10.20,2014,Unprovoked,USA,Hawaii,"Kahului, Maui",Stand-Up Paddleboarding,M,unknown,"No injury, paddleboard bitten",N
+2014.10.22,2014,Unprovoked,USA,Hawaii,"Kihei, Maui",Stand-Up Paddleboarding,F,unknown,"No injury, paddleboard bitten",N
+2014.10.30,2014,Provoked,AUSTRALIA,New South Wales,Wallabi Point,Surfing,M,20,Laceration to dorsum of left foot when he stepped on the shark     PROVOKED INCIDENT,N
+2014.10.31,2014,Unprovoked,USA,Hawaii,"North Kohala, Hawaii County",Surfing,F,34,Lacerations to fingers,N
+2014.11.08,2014,Unprovoked,USA,Florida,"Fort Pierce Inlet State Park, St. Lucie County",Surfing,M,18,Minor injuries to hand & arm ,N
+2014.11.10,2014,Unprovoked,AUSTRALIA,New South Wales,Moonee Beach,Surfing,M,unknown,Minor injury to lower leg and foot,N
+2014.11.13,2014,Unprovoked,USA,Hawaii,"Airplane Beach, Lahina, West Maui",Snorkeling,M,53,Laceration to left upper leg,N
+2014.11.16,2014,Unprovoked,USA,Florida,"Indian Harbor Beach, Brevard County",Surfing,M,44,Laceration to left hand,N
+2014.11.17,2014,Boat,USA,California,"Franklin Point, San Mateo County",unknown,unknown,unknown,"Shark bumped boat, no injury to occupants",N
+2014.11.19,2014,Boat,AUSTRALIA,Western Australia,Freo,Fishing,M,unknown,"Shark chasing fish bumped boat, no injury to occupants",N
+2014.11.20,2014,Provoked,MAURITIUS,Cargados Carajos Shoals (St. Brandon),unknown,Fishing,M,39,"FATAL, arm bitten by shark hauled on deck             PROVOKED INCIDENT",Y
+2014.11.29,2014,Unprovoked,AUSTRALIA,Western Australia,"Pyramids Beach, Port Bouvard",Surfing,M,13,Minor injuries to right leg,N
+2014.12.03.R,2014,Provoked,SPAIN,Granada,Off Motril,Fishing for blue sharks,M,unknown,Glancing bite to wrist from netted shark PROVOKED INCIDENT,N
+2014.12.15,2014,Unprovoked,AUSTRALIA,Queensland,Rudder Reef,Spearfishing,M,17,FATAL,Y
+2014.12.23.R,2014,Unprovoked,JAPAN,unknown,unknown,Diving / Filming,M,unknown,"No injury, shark snagged its teeth in diver's suit",N
+2014.12.28.a,2014,Provoked,AUSTRALIA,Victoria,Paradise Beach,Fishing,M,unknown,Laceration to calf when he fell on shark he had caught PROVOKED INCIDENT,N
+2014.12.28.b,2014,Unprovoked,USA,California,"Montaña de Oro State Park, San Luis Obispo County ",Surfing,M,50,Injury to hip/leg,N
+2014.12.28.c,2014,Invalid,SOUTH AFRICA,KwaZulu-Natal,Durban,Swimming,unknown,unknown,Minor cuts on feet,N
+2014.12.28.d,2014,Sea Disaster,GREECE,unknown,33 nautical miles off Othonoi Island,unknown,unknown,unknown,"Of 9 bodies recovered, one was bitten by a shark",N
+2014.12.29.a,2014,Unprovoked,AUSTRALIA,Western Australia,Three Stripes near Cheynes Beach,Spearfishing,M,17,FATAL,Y
+2014.12.29.b,2014,Unprovoked,AUSTRALIA,New South Wales,Bherwerre Beach,Surfing,unknown,unknown,Lacerations to both feet,N
+2015.01.01,2015,Unprovoked,USA,Florida,"Windsor Beach, Indian River County",unknown,M,12,Leg bitten,N
+2015.01.03,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Chintsa East Beach,Surfing,M,15,"Lacerations to lower left leg, puncture wounds to sole of left foot",N
+2015.01.06,2015,Unprovoked,BAHAMAS,Abaco Islands,"Tahiti Beach, Elbow Cay",Snorkeling,F,34,Severe bite to right flank,N
+2015.01.08,2015,Invalid,USA,Florida,unknown,Swimming after falling overboard,M,38,"During his 16-hour swim to shore, he was circled by a shark but it did not injure him",N
+2015.01.16,2015,Unprovoked,AUSTRALIA,New South Wales,"Mollymook Beach, Bannister Head",Filming,M,17,Bitten on hand & wrist,N
+2015.01.17,2015,Boat,AUSTRALIA,New South Wales,Off Blacksmith Beach,Fishing,M,unknown,"Shark bumped boat, no injury to occupants",N
+2015.01.19.a,2015,Invalid,AUSTRALIA,New South Wales,"Wategos Beach, Byon Bay",Surfing & filming dolphins,F,unknown,Board snapped in two,N
+2015.01.19.b,2015,Boat,USA,Florida,Off Panama City,Fishing,M,unknown,No injury but shark bit trolling motor & rammed boat,N
+2015.01.23,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Nahoon Beach,Floating,M,24,Foot bitten,N
+2015.01.24,2015,Unprovoked,AUSTRALIA,New South Wales,Flat Rock,Surfing,M,unknown,"No injury, surfboard dented",N
+2015.01.27,2015,Provoked,USA,Hawaii,Lahaina,Shark fishing,M,20,Lacerations to calf by hooked shark PROVOKED INCIDENT,N
+2015.01.30,2015,Boat,AUSTRALIA,Queensland,"Nerang River, Surfer's  Paradise",Rowing,M,57,"No injury, shark's teeth scratched hull",N
+2015.02.05,2015,Unprovoked,AUSTRALIA,New South Wales,Mereweather Beach,Bodysurfing,M,unknown,5 minor puncture wounds to lower left leg,N
+2015.02.08,2015,Unprovoked,AUSTRALIA,New South Wales,"Seven Mile Beach, Byron Bay",Surfing,M,35,Laceration & puncture wounds to right flank & hip,N
+2015.02.09,2015,Unprovoked,AUSTRALIA,New South Wales,Shelly Beach,Surfing,M,41,FATAL,Y
+2015.02.14,2015,Unprovoked,REUNION,d’Étang-Salé,Ravine Mula,Swimming,F,22,FATAL,Y
+2015.02.15,2015,Boat,ATLANTIC OCEAN,unknown,unknown,Transatlantic Rowing,unknown,unknown,"No injury, shark bit rudder",N
+2015.03.07,2015,Unprovoked,FRENCH POLYNESIA,Central Tuamotu,"Tupapati, Hikueru Atoll",Sitting in the water,M,unknown,Thigh bitten,N
+2015.03.10,2015,Provoked,MEXICO,Sinaloa,Mazlatan,Fishing,M,36,Right hand bitten by hooked shark PROVOKED INCIDENT,N
+2015.03.11,2015,Boat,AUSTRALIA,New South Wales,"Julian Rocks, Byron Bay",Fishing,M,unknown,Bruised in falling overboard as shark bumped boat,N
+2015.03.16,2015,Unprovoked,FRENCH POLYNESIA,Bora Bora,Anau,Hand feeding sharks,M,9,Hand bitten,N
+2015.03.18,2015,Unprovoked,USA,Hawaii,Hapuna Beach,Standing / Snorkeling,M,58,Lacerations to left forearm. Lacerations to left hand and thigh,N
+2015.03.21,2015,Unprovoked,EGYPT,unknown,Marsa Alam,Swimming,M,52,FATAL,Y
+2015.03.26,2015,Boat,SOUTH AFRICA,Eastern Cape Province,Yellow Sands Point,Kayak Fishing,M,36,No injury but kayak bitten,N
+2015.03.29,2015,Invalid,ITALY,Sardinia,unknown,Diving,M,43,"FATAL, but shark involvement prior to death unconfirmed",Y
+2015.03.31,2015,Invalid,BRAZIL,Pernambuco,"Praia del Chifre, Olinda",Surfing,M,23,Injury to left thigh from unidentified species of fish; injuries inconsistent with shark bite,N
+2015.04.03,2015,Unprovoked,USA,Florida,"3 miles off Jupiter, Palm Beach County",Spearfishing,M,70,Injuries to head & torso,N
+2015.04.11,2015,Unprovoked,AUSTRALIA,New South Wales,McKenzies Beach,Paddle boarding,M,unknown,Ankle injured,N
+2015.04.12,2015,Unprovoked,REUNION,Saint-Gilles-les-Bains,Cap Homard,Surfing,M,13,FATAL,Y
+2015.04.13,2015,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Photographing the shark,M,48,Lacerations to shoulder and left bicep,N
+2015.04.24.c,2015,Unprovoked,AUSTRALIA,New South Wales,"Belongil Beach, Byron Bay",Surf skiing ,M,71,"No injury, knocked off ski",N
+2015.04.25,2015,Unprovoked,AUSTRALIA,South Australia,Fishery Bay,Surfing,M,26,Leg severed at mid-thigh,N
+2015.04.26,2015,Unprovoked,USA,Florida,"Resident's Beach, Marco Island",Wading,M,63,Lacerations to left calf,N
+2015.04.29,2015,Unprovoked,USA,Hawaii,Kanahena Cove ,Snorkeling,F,65,FATAL,Y
+2015.05.02,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Port St. John's,Diving,M,29,"Injuries to leg, left arm & both hands",N
+2015.05.03,2015,Unprovoked,AUSTRALIA,New South Wales,Saltwater Beach,Surfing,M,unknown,Injuries to left arm & right hand,N
+2015.05.07,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,M,unknown,"Lacerations to lower left leg, ankle & foot",N
+2015.05.09,2015,Unprovoked,NEW CALEDONIA,unknown,Kouare ,Snorkeling,M,50,FATAL,Y
+2015.05.15,2015,Unprovoked,USA,South Carolina,Sullivan's Island,unknown,M,30,Laceration to foot ,N
+2015.05.20,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,18,2 puncture wounds to  dorsum of left foot,N
+2015.05.24,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Swimming,F,13,"Puncture wounds to lower left leg and ankle, shallow lacerations to foot, deep laceration to Achilles tendon",N
+2015.05.25,2015,Unprovoked,FRENCH POLYNESIA,Rangiroa,Avatoru Pass,Spearfishing,M,19,Lacerations to right forearm,N
+2015.05.29.a,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Wading,F,19,Minor lacerations to dorsum of right foot,N
+2015.05.29.b,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Standing,F,14,Left foot bitten,N
+2015.06.01,2015,Unprovoked,REUNION,Le Port,Folette,Surfing,M,47,Left forearm bitten,N
+2015.06.05,2015,Unprovoked,USA,Florida,Fort Lauderdale,Attempting to rescue a shark,F,17,Puncture wound to finger,N
+2015.06.07,2015,Unprovoked,USA,Florida,"Lori Wilson Park, Cocoa Beach, Brevard  County",Playing,M,11,Lacerations to right calf,N
+2015.06.11,2015,Unprovoked,USA,North Carolina,"Ocean Isle, Brunswick County",Boogie boarding,F,13,Minor lacerations to foot,N
+2015.06.13,2015,Unprovoked,USA,California,Off San Diego,unknown,F,unknown,Severe laceration to leg,N
+2015.06.14.a,2015,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,F,12,Left arm amputated at elbow & severe injury to leg,N
+2015.06.14.b,2015,Unprovoked,USA,North Carolina,"Oak Island, Brunswick County",Wading,M,16,Arm amputated below shoulder,N
+2015.06.17,2015,Unprovoked,USA,Florida,Daytona Beach Shores,Swimming,M,10,Minor injury to calf ,N
+2015.06.19,2015,Unprovoked,PUERTO RICO,unknown,Off Cabo Rojo,Spearfishing,M,36,Injury to hand,N
+2015.06.23,2015,Unprovoked,USA,South Carolina,"St. Helena Island, Beaufort County",Standing,M,9,Minor injury to calf ,N
+2015.06.24.a,2015,Invalid,AUSTRALIA,Western Australia,Denmark,Surfing,F,37,"Bruises and abrasions to face, chin, chest, both shins & feet and cut to right hand when her surfboard was struck with force",N
+2015.06.24.b,2015,Unprovoked,USA,North Carolina,Surf City,Swimming,M,6,Minor injury to foot,N
+2015.06.25,2015,Unprovoked,USA,North Carolina,"Avon, Hatteras Island, Outer Banks, Dare County",Body surfing?,M,47,Multiple lacerations to back,N
+2015.06.25.R,2015,Provoked,AUSTRALIA,Western Australia,Rottnest Island,Swimming,M,19,Minor lacerations to forearm when he grabbed shark by its tail     PROVOKED INCIDENT,N
+2015.06.26.a,2015,Unprovoked,USA,South Carolina,"South Beach, Hunting Island State Park, Beaufort County",Standing,M,43,Puncture wounds to foot,N
+2015.06.26.b,2015,Unprovoked,SOUTH AFRICA,Western Cape Province,"Lookout Beach, Plettenberg Bay",Surfing,M,23,Multiple lacerations to torso & leg,N
+2015.06.26.c,2015,Invalid,USA,Florida,"Jacksonville Beach, Duval County",Swimming,F,unknown,Minor lacerations to leg,N
+2015.06.27.a,2015,Unprovoked,SOUTH AFRICA,Western Cape Province,Buffels Bay near Knysna,Body Boarding,M,19,"Right leg severed, multiple lacerations to left leg",N
+2015.06.27.b,2015,Unprovoked,USA,North Carolina,"Rodanthe, Dare County",Swimming,M,18,"Injuries to right calf, buttock and both hands",N
+2015.06.30.a,2015,Unprovoked,USA,South Carolina,"Isle of Palms County Park, Isle of Palms, Charleston County",Playing in the water,M,12,Shallow lacerations & puncture to lateral left leg,N
+2015.06.30.b,2015,Unprovoked,AUSTRALIA,New South Wales,"Flat Rock, Yamba",Surfing,M,unknown,Hand bitten,N
+2015.07.01,2015,Unprovoked,USA,North Carolina,"Ocracoke, Lifeguard Beach, National Park Service, Hyde County",Swimming,M,68,"Injuries to torso, hip, lower leg & hands",N
+2015.07.02,2015,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Body boarding ,M,32,Significant injuries to lower legs,N
+2015.07.03,2015,Unprovoked,AUSTRALIA,New South Wales,Lennox Head,Surfing,M,52,"No injury, shark bit surfboard",N
+2015.07.04.a,2015,Unprovoked,USA,North Carolina,"Off Surf City, Pender County",unknown,M,32,Lacerations to right hand & forearm,N
+2015.07.04.b,2015,Unprovoked,BAHAMAS,Grand Bahama Island,"Port Lucaya, Freeport",Spearfishing,F,23,Lacerations to lower leg & ankle,N
+2015.07.06,2015,Invalid,FRENCH POLYNESIA,Bora Bora,unknown,Swimming,M,unknown,Parallel lacerations to torso inconsistent with shark bite,N
+2015.07.08,2015,Invalid,USA,California,"Huntington Beach, Orange County",Treading water,M,39,Laceration to back,N
+2015.07.19,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Jeffrey's Bay,Surfing,M,34,No injury,N
+2015.07.22,2015,Unprovoked,REUNION,unknown,St. Leu,Surfing,M,45,Arm bitten,N
+2015.07.23.a,2015,Unprovoked,AUSTRALIA,Victoria,Tyrendarra Beach near Portland,Surfing,M,40,Left hand bitten,N
+2015.07.23.b,2015,Provoked,USA,California,"La Jolla, San Diego County",Kayak Fishing,M,31,No injury to occupant. Kayak bitten by gaffed shark. PROVOKED INCIDENT,N
+2015.07.25,2015,Unprovoked,AUSTRALIA,Tasmania,"Lachan Island, Mercury Passage",Scallop diving on hookah,M,46,FATAL,Y
+2015.07.26.a,2015,Invalid,USA,South Carolina,"Edisto Beach, Colleton County",Floating,F,35,"2' cut to dorsum of foot, 2 puncture wounds to sole",N
+2015.07.26.b,2015,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",Surfing,M,25,Minor injury to sole of foot,N
+2015.07.27,2015,unknown,AUSTRALIA,Victoria,Tyrendarra Beach,Surfing,M,40,Injury to hand,unknown
+2015.07.31,2015,Unprovoked,AUSTRALIA,New South Wales,Evans Head,Surfing,M,52,"Lacerations and puncture wounds to hip, thigh, arm and hand",N
+2015.07-10,2015,Unprovoked,USA,California,"Huntington Beach, Orange County",Surfing,M,38,"No injury, shark bumped & damaged board",N
+2015.08.10,2015,Provoked,USA,California,Cortes Bank,Spearfishing,M,57,Right hand bitten  PROVOKED INCIDENT,N
+2015.08.18.a,2015,Invalid,SPAIN,Alicante,"Poniente Beach, Benidorm",Swimming,M,10,Minor injury when he attempted to touch a fish. ,N
+2015.08.18.b,2015,Unprovoked,USA,California,Santa Barbara County,Kayak Fishing,M,22,"No injury, kayak bitten",N
+2015.08.19,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Walking,F,10,Lacerations to right leg,N
+2015.08.20,2015,Unprovoked,USA,South Carolina,"Murrells Inlet, Georgetown County",Surfing,M,15,"Injuries to left calf, arm and hand",N
+2015.08.22.a,2015,Unprovoked,AUSTRALIA,New South Wales,Lighthouse Beach,Surfing,M,38,Severe laceration to left buttock & thigh,N
+2015.08.22.b,2015,Invalid,USA,Florida,"Cocoa Beach, Brevard  County",unknown,M,unknown,Wound to right lower leg,N
+2015.08.29.a,2015,Unprovoked,USA,California,"Morro Bay, San Luis Obispo County",Surfing,M,21,"No injury, shark struk sufer's leg and his board",N
+2015.08.29.b,2015,Unprovoked,USA,California,"Morro Strand State Beach, San Luis Obispo County",Surfing,F,54,"No injury, surfboard bitten",N
+2015.09.00,2015,Unprovoked,FIJI,unknown,unknown,Spearfishing,M,unknown,Leg bitten,N
+2015.09.01,2015,Unprovoked,THAILAND,Phuket,Karon Beach,Wading,F,37,Left foot & ankle bitten,N
+2015.09.03,2015,Unprovoked,USA,South Carolina,"Myrtle Beach, Horry County",unknown,M,unknown,Right foot bitten,N
+2015.09.04,2015,Unprovoked,AUSTRALIA,New South Wales,Hallidays Point,Surf-skiing,M,62,Inuries to lower left leg & ankle,N
+2015.09.05,2015,Provoked,USA,California,"Deer Creek Beach, Ventura County",Kayak Fishing,M,29,Laceration to dorsum of foot by hooked shark  PROVOKED INCIDENT,N
+2015.09.06,2015,Unprovoked,USA,California,"El Pescador Beach, Los Angeles County",Stand-Up Paddleboarding,F,50,"No injury, shark struck board, tossing her into the sea",N
+2015.09.08,2015,Unprovoked,AUSTRALIA,New South Wales,North Shelly Beach,Surfing,M,42,Minor laceration to hand,N
+2015.09.17,2015,Unprovoked,USA,Florida,"Jacksonville Beach, Duval County",Surfing,M,20,Injury to right foot,N
+2015.09.18,2015,Unprovoked,USA,Florida,"Big Talbot Island, Duval County",Swimming,M,unknown,Lacerations to calf,N
+2015.09.20.a,2015,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Photographing fish,M,16,Injury to right hand / wrist,N
+2015.09.20.b,2015,Unprovoked,USA,Florida,"Fernandina Beach, Amelia Island, Nassau County",Wading,M,12,Significant injuries to leg,N
+2015.09.20.c,2015,Unprovoked,USA,Hawaii,"Upolu Point, North Kohala, Big Island",Spearfishing,M,27,Severe laceration to left leg,N
+2015.09.20.d,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,Minor injury to left ankle,N
+2015.09.24,2015,Unprovoked,USA,California,"Horseshoe Rock, Santa Barbara County",Kayak fishing,M,unknown,"No injury, kayak damaged",N
+2015.09.26,2015,Unprovoked,AUSTRALIA,Queensland,"Russel Island, Frankland Group",Snorkeling,F,7,Laceration to leg,N
+2015.09.29,2015,Unprovoked,USA,Florida,"Vilano Beach, St.  Johns County",Surfing,M,22,"Laceration to heel, puncture wounds to dorsum of foot",N
+2015.10.04,2015,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,14,Severe lacerations to left hand,N
+2015.10.05.a,2015,Unprovoked,USA,Texas,Galveston,Wading,M,13,Foot & hands bitten,N
+2015.10.05.b,2015,Unprovoked,USA,Florida,"Pepper Park Beach, St. Lucie County",Body boarding,M,22,2 lacerations to ankle,N
+2015.10.07,2015,Unprovoked,AUSTRALIA,Western Australia,Pyramids Beach,Surfing,M,18,Foot injured,N
+2015.10.08,2015,Unprovoked,MOZAMBIQUE,Inhambane Province,"Maxixe, Inhambane Bay",Fishing,M,unknown,"Arm severely injured, surgically amputated",N
+2015.10.09.a,2015,Unprovoked,USA,Hawaii,"Leftovers, Oahu",Surfing,M,25,"Left leg severed below the knee, defense injuries to left hand",N
+2015.10.09.b,2015,Unprovoked,USA,South Carolina,"Shipyard Beach Club, Hilton Head Island, Beaufort County",Boogie boarding,F,9,Laceration to forearm,N
+2015.10.13,2015,Boat,USA,California,"Off Leffingwell Landing, San Luis Obispo County",Kayak Fishing,M,unknown,"No injury, shark rammed kayak repeatedly",N
+2015.10.17.a,2015,Unprovoked,USA,Hawaii,"Lanikai Beach, Kailua, Oahu",Swimming,M,44,Injuries to lower legs,N
+2015.10.17.b,2015,Invalid,USA,Hawaii,"Waikiki, ",Surfing,M,32,Left foot bitten by eel,N
+2015.10.17.c,2015,Unprovoked,MOZAMBIQUE,Inhambane Province,"Nahaduga, Inhambane Bay",Fishing for shrimp,F,35,FATAL,Y
+2015.10.19,2015,Unprovoked,USA,Florida,"Deerfield Beach, Broward County",Surfing,M,21,Left foot bitten,N
+2015.10.21,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,21,Lacerations to left hand,N
+2015.10.25,2015,Unprovoked,SOUTH AFRICA,Western Cape Province,Stil Bay,Surfing,M,42,"Lacerations to right calf, knee & hip",N
+2015.10.28.a,2015,Unprovoked,USA,Hawaii,"Malaka, Oahu",Body boarding,M,10,"Lacerations & puncture wounds to right thigh, calf & ankle",N
+2015.10.30,2015,Unprovoked,AUSTRALIA,Western Australia,Bald Island,Spearfishing,M,50,Minor injury,N
+2015.11.01.a,2015,Unprovoked,MOZAMBIQUE,Inhambane Province,Maxixe,Fishing,M,19,"Arms severely injured, surgically amputated",N
+2015.11.01.b,2015,Unprovoked,USA,Florida,"Cocoa Beach, Brevard  County",Wading,F,28,Injury to right ankle/calf & hand,N
+2015.11.03,2015,Unprovoked,USA,Hawaii,"Kehena Beach, Hawaii",Swimming,M,54,Laceration to right ankle,N
+2015.11.10,2015,Unprovoked,AUSTRALIA,New South Wales,East Ballina,Surfing,M,20,Injury to left thigh,N
+2015.11.15.a,2015,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",Surfing,M,28,Lacerations to hand,N
+2015.11.15.b,2015,Unprovoked,USA,Florida,"Palm Beach, Palm Beach County",Swimming,F,unknown,Leg injured,N
+2015.11.16,2015,Unprovoked,USA,Florida,"Playalinda Beach, Brevard County",Surfing,M,unknown,Right heel injured,N
+2015.11.20,2015,Unprovoked,ECUADOR,Galapagos Islands,"Punta Vicente Roca, Isabella Island",Snorkeling,M,55,Lacerations to left calf,N
+2015.12.08,2015,Unprovoked,SOUTH AFRICA,Eastern Cape Province,Mpande,Swimming / Wading,F,22,Lacerations to both hands and forearms,N
+2015.12.11,2015,Unprovoked,BAHAMAS,unknown,Off Andros Island,Lobster fishing,M,26,"Bitten on thigh, abdomen & hand",N
+2015.12.13,2015,Boat,AUSTRALIA,New South Wales,Lake Macquarie,Fishing,unknown,unknown,"No injury, shark rammed boat & bit motor",N
+2015.12.19,2015,Unprovoked,ARUBA,unknown,Boat capsized,Sea disaster,M,58,FATAL,Y
+2015.12.21.a,2015,Unprovoked,BRAZIL,Pernambuco,Fernano de Noronha,Scuba diving,M,32,Right hand & part of forearm removed,N
+2015.12.21.b,2015,Unprovoked,AUSTRALIA,New South Wales,Bondi Beach,Surfing,M,43,"No injury, shark leapt on surfboard",N
+2015.12.22,2015,Unprovoked,USA,Hawaii,La'aloa Beach Park,Paddle boarding,M,71,"No injury, shark bit board",N
+2015.12.23,2015,Invalid,USA,Florida,"Paradise Beach, Melbourne, Brevard County",Surfing,F,9,Lower left leg injured,N
+2015.12.25,2015,Unprovoked,SPAIN,Grand Canary Island,"Arinaga Beach, Aguimes, Gran Canaria",Swimming,F,38,Lacerations to left forearm,N
+2015.12.26,2015,Boat,SOUTH AFRICA,KwaZulu-Natal,Westbrook Beach,Kayak Fishing,M,unknown,"No injury, kayak damaged",N
+2016.01.02,2016,Unprovoked,AUSTRALIA,Queensland,Miall Island,Spearfishing,M,31,Lacerations to arms & leg,N
+2016.01.05,2016,Unprovoked,AUSTRALIA,Queensland,Heron Island,Wading,M,11,Laceration to right calf,N
+2016.01.11.R,2016,Unprovoked,AUSTRALIA,Queensland,"Happy Valley Beach, Caloundra",Surfing,M,unknown,Laceration to right foot,N
+2016.01.23,2016,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Paddle boarding,M,48,No injury,N
+2016.01.24.a,2016,Boat,UNITED ARAB EMIRATES,Fujairah Emirate,35 miles off Fujairah,Fishing,M,unknown,"No injury to occupants, shark leapt into boat",N
+2016.01.24.b,2016,Unprovoked,USA,Texas,Off Surfside,Spearfishing,M,unknown,"Bruised ribs & tail bone, speargun broken and wetsuit cut",N
+2016.01.25,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai, ",Surfing,F,15,No injury,N
+2016.01.28,2016,Unprovoked,USA,Hawaii,"Hanalei Bay, Kauai",Surfing,M,unknown,Lacerations to both hands,N
+2016.01.29,2016,Boat,SOUTH AFRICA,KwaZulu-Natal,unknown,Kayak fishing,M,unknown,"No injury, shark capsized kayak",N
+2016.02.04,2016,Unprovoked,AUSTRALIA,New South Wales,Hams Beach,Windsurfing,M,40,"No injury, shark bit board",N
+2016.02.05,2016,Unprovoked,AUSTRALIA,Queensland,Stradbroke Island,Walking,F,45,Foot nipped,N
+2016.02.10,2016,Invalid,AUSTRALIA,Tasmania,Nettley Bay,Surfing,M,unknown,"No injury, knocked off board",N
+2016.02.10.R,2016,Invalid,CAYMAN ISLANDS,Grand Cayman,Stingray City Bar,Feeding stingrays?,M,65,Minor injury to wrist from Southern stingray,N
+2016.02.12,2016,Unprovoked,DOMINICAN REPUBLIC,Altagracia Province,"Bavaro Beach, Punta Cana",Wading,F,unknown,Avulsion injury to lower leg,N
+2016.02.19,2016,Unprovoked,NEW CALEDONIA,South Province,Yate,Spearfishing,M,31,Forearm bitten,N
+2016.02.22,2016,Unprovoked,NEW CALEDONIA,South Province,"Ricaudy Reef, Noumea",Kite surfing,M,21,Puncture wounds to right thigh,N
+2016.03.02,2016,Unprovoked,BRAZIL,Santa Catarina State,Escalerio Beach Balneário Camboriú,Swimming,M,41,Minor injury to head,N
+2016.03.03.R,2016,Unprovoked,AUSTRALIA,South Australia,Wrights Bay,Fishing,M,unknown,Puncture wounds to right calf,N
+2016.03.04,2016,Unprovoked,USA,Florida,"Ocean Reef Park, Singer Island, Palm Beach County",unknown,M,12,Superficial injury to foot,N
+2016.03.10,2016,Unprovoked,Fiji,Vanua Levu,unknown,Diving for beche-de-mer,M,45,FATAL,Y
+2016.03.11,2016,Unprovoked,USA,Florida,"Vero Beach, St. Lucie County",Body surfing,M,19,Lacerations to right foot and ankle,N
+2016.03.13,2016,Invalid,USA,California,"Bolsa Chica State Park, Orange County",Surfing,unknown,unknown,Board reportedly bumped by shark. No injury,N
+2016.03.26,2016,Provoked,BAHAMAS,unknown,unknown,unknown,M,9,Minor injury to chest PROVOKED INCIDENT,N
+2016.03.28.a,2016,Unprovoked,AUSTRALIA,New South Wales,North Cronulla Beach,Surfing,M,41,"No injury, board dented",N
+2016.03.28.b,2016,Unprovoked,USA,Florida,"Fort Myers Beach, Lee County",unknown,M,unknown,Minor injury to arm. Possibly caused by smalll nurse shark,N
+2016.03.30,2016,Unprovoked,AUSTRALIA,New South Wales,Bombo Beach,Surfing,M,22,Severe injury to thigh,N
+2016.03.31,2016,Unprovoked,USA,Hawaii,"Olowalu, Maui",Snorkeling,F,46,Minor injury to left foot,N
+2016.04.07.a,2016,Invalid,USA,Florida,"Corners Beach, Jupiter, Palm Beach County",SUP,M,unknown,Fell off board when spinner shark leapt from the water next to him. No injury to surfer,N
+2016.04.07.b,2016,Unprovoked,USA,Florida,"Florida Keys, Monroe County",Fishing,M,34,Left hand bitten,N
+2016.04.08,2016,Invalid,CAPE VERDE,Boa Vista Island,unknown,unknown,M,60,"""Serious""",N
+2016.04.09,2016,Unprovoked,NEW CALEDONIA,Grand Terre,Poe Beach,Walking,F,69,FATAL,Y
+2016.04.13,2016,Unprovoked,USA,Florida,"Off Singer Island, Palm Beach County",Spearfishing,M,26,Multiple bites to right arm,N
+2016.04.18,2016,Provoked,FRENCH POLYNESIA,Tuamotos,Makemo Atoll,Spearfishing,M,26,"Severe lacerations to right forearm, hand and calf from speared shark PROVOKED INCIDENT",N
+2016.04.19,2016,Unprovoked,AUSTRALIA,New South Wales,"First Sun Beach, Byron Bay",Swimming,M,12,Minor puncture wound to foot,N
+2016.04.22,2016,Unprovoked,SOUTH AFRICA,Western Cape Province,"Robberg Beach, Plettenberg Bay",Surf-skiing,M,unknown,"No injury, surf-ski bitten",N
+2016.04.23,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,15,Minor injury to left foot,N
+2016.04.25,2016,Unprovoked,INDONESIA,Bali,Balian,Surfing,M,24,Elbow bitten,N
+2016.05.02,2016,Provoked,NEW ZEALAND,North Island,Cormandel,Fishing,M,39,Foot bitten by landed shark PROVOKED INCIDENT,N
+2016.05.03,2016,Unprovoked,USA,Hawaii,"Wailea Beach, Maui",Floating,M,59,Minor lacerations to right shoulder,N
+2016.05.15,2016,Provoked,USA,Florida,"Boca Raton, Palm Beach County",Teasing a shark,F,23,Arm grabbed PROVOKED INCIDENT,N
+2016.05.18,2016,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Swimming,M,48,Ankle bitten,N
+2016.05.21.a,2016,Unprovoked,USA,Florida,"Hugenot Beach , Jacksonville, Duval County",Swimming,F,11,"Back, arm & hand injured",N
+2016.05.21.b,2016,Unprovoked,USA,Florida,"St. Petersburg, Pinellas County",Swimming,F,22,Lacerations and puncture wounds to foot and ankle,N
+2016.05.22,2016,Unprovoked,USA,Florida,"Vero Beach, Indian River County",Swimming,F,57,Puncture wounds to thigh,N
+2016.05.29.a,2016,Unprovoked,USA,Florida,"Neptune, Duval County",Swimming,M,13,Injury to posterior right leg,N
+2016.05.29.b,2016,Unprovoked,USA,California,"Corona Del Mar, Newport, Orange County",Swimming,F,52,Injuries to arm and shoulder,N
+2016.05.31,2016,Unprovoked,AUSTRALIA,Western Australia,"Falcon Beach, Mandurah",Surfing,M,29,FATAL,Y
+2016.06.02.a,2016,Unprovoked,NEW CALEDONIA,unknown," Côte-Blanche, Nouméa ",Kite surfing,M,unknown,Laceration to heel,N
+2016.06.02.b,2016,Unprovoked,AUSTRALIA,New South Wales,Kingscliff,Spearfishing,M,unknown,"No injury, but sharks repeatedly hit their fins and guns",unknown
+2016.06.04,2016,Unprovoked,EGYPT,Suez,Ain Sokhna,Swimming,M,23,"Leg severely bitten, surgically amputated",N
+2016.06.05.a,2016,Unprovoked,AUSTRALIA,Western Australia,Mindarie,Diving,F,60,FATAL,Y
+2016.06.05.b,2016,Unprovoked,USA,Florida,"Flagler Beach, Flagler County",Swimming,M,64,Leg bitten,N
+2016.06.07,2016,Invalid,USA,South Carolina,"Folly Beach, Charleston County",Surfing,M,27,"No injury, board damaged",N
+2016.06.11,2016,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Standing,M,19,Laceration to wrist,N
+2016.06.14,2016,Unprovoked,USA,Texas,"Pirates Beach, Galveston",Floating in tube,F,6,Injury to lower leg,N
+2016.06.15.a,2016,Provoked,AUSTRALIA,Western Australia,Coral Bay,Spearfishing,M,19,No injury but shark punctured his wetsuit after he prodded it with his spear PROVOKED INCIDENT,N
+2016.06.15.b,2016,Unprovoked,USA,Hawaii,"Kalapaki Beach, Kauai",Surfing,M,unknown,Single puncture wound to arm,N
+2016.06.21.a,2016,Unprovoked,USA,Florida,"Pelican Beach Park, Satellite Beach, Brevard County",Wading,M,unknown,Injuries to right calf,N
+2016.06.21.b,2016,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Floating,M,42,Lacerations and punctures to foot,N
+2016.06.23,2016,Unprovoked,SOUTH AFRICA,Western Cape Province,Ryspunt,Spearfishing,M,43,Injuries to left leg & right hand,N
+2016.06.24,2016,Unprovoked,COLUMBIA,Isla Provedencia,unknown,Scuba Diving,M,59,Severe bite to right hand,N
+2016.06.25,2016,Unprovoked,USA,North Carolina,"Atlantic Beach, Emerald Isle, Carteret County",Surfing,M,11,Foot injured,N
+2016.06.27,2016,Unprovoked,USA,South Carolina,Sullivan's Island,unknown,M,35,Minor injury,N
+2016.07.04,2016,Provoked,AUSTRALIA,Queensland,Palm Cove ,Fishing,M,34,Right thigh injured by hooked pregnant female shark PROVOKED INCIDENT,N
+2016.07.06,2016,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,F,42,"Buttocks, thigh, left hand & wrist injured",N
+2016.07.07.a,2016,Boat,USA,California,"Off Palos Verdes peninsula, Los Angeles County",Fishing for sharks,M,unknown,"No injury. Hull bitten, tooth fragment recovered",N
+2016.07.07.b,2016,Provoked,USA,Massachusetts,"Off Gloucester, Essec County",Fishing,M,59,Fin of hooked shark injured fisherman's forearm. . PROVOKED INCIDENT,N
+2016.07.08,2016,Boat,USA,California,"Capitola, Santa Cruz County",Fishing for squid,M,unknown,"No injury. Hull bitten, tooth fragment recovered",N
+2016.07.08.R,2016,Unprovoked,SPAIN,Canary Islands,"Las Teresitas, Tenerife",Wading,F,10,"5 tiny puncture marks to lower leg, treated with hydrogen peroxide",N
+2016.07.14.R,2016,Unprovoked,BAHAMAS,unknown,Tiger Beach,Scuba Diving,M,unknown,Face bruised when partly blind shark collided with him,N
+2016.07.15.a,2016,Unprovoked,USA,South Carolina,"North Myrtle Beach, Horry County",Swimming,M,unknown,Puncture wounds to foot,N
+2016.07.15.b,2016,Unprovoked,USA,California,"Surfside, Orange County",Kite surfing,M,61,"No injury, board damaged",N
+2016.07.16.a,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",unknown,F,11,Minor injury to toes,N
+2016.07.16.b,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,F,9,Minor injury to leg,N
+2016.07.17,2016,Boat,USA,Alabama,8 miles off Mobile,Fishing in Alabama Deep Fishing Rodeo,unknown,unknown,"No injury, shark bit trolling motor",N
+2016.07.20,2016,Provoked,AUSTRALIA,Queensland,"20 k off The Spit, off the Gold Coast",Fishing,M,31,Laceration to left calf from hooked shark PROVOKED INCIDENT,N
+2016.07.23.a,2016,Unprovoked,BAHAMAS,Abaco Islands,Green Turtle Cay,Spearfishing,M,unknown,Lacerations to face and right leg,N
+2016.07.23.b,2016,Unprovoked,AUSTRALIA,Tasmania,Clifton Beach,Surfing,M,36,Calf bumped but no injury,N
+2016.07.24,2016,Unprovoked,JAPAN,Kochi Prefecture,Irino Beach,Surfing,M,29,Lacerations to left leg,N
+2016.07.26,2016,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,18,"No injury. Leg rope severed, knocked off board by shark",N
+2016.07.27,2016,Provoked,USA,Florida,"Florida Keys, Monroe County",Lobstering,M,43,Laceration to left forearm PROVOKED INCIDENT,N
+2016.07.28,2016,Boat,AUSTRALIA,Western Australia,Near Albany,Kayaking,M,unknown,"No injury, shark nudged kayak repeatedly",N
+2016.07.28.R,2016,Unprovoked,CHINA,Hong Kong,unknown,Swimming,M,72,Lacerations to leg,N
+2016.07.29,2016,Unprovoked,SPAIN,Alicante Province,Arenales del Sol,Swimming,M,40,Lacerations to right hand,N
+2016.08.04,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,22,Big toe bitten,N
+2016.08.06,2016,Unprovoked,USA,Hawaii,Maui,SUP Foil boarding,M,21,"No inury, shark & board collided",N
+2016.08.07,2016,Unprovoked,BAHAMAS,New Providence Island,Nassau,Snorkeling,M,15,Lacerations to left leg,N
+2016.08.25,2016,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,M,49,Minor injury to ankle,N
+2016.08.27,2016,Unprovoked,REUNION,unknown,Boucan Canot,Surfing,M,20,"Right arm severed, ankle severely bitten ",N
+2016.08.29.a,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,37,Minor injury to ankle,N
+2016.08.29.b,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,25,Lacerations to right foot,N
+2016.09.00,2016,Invalid,MEXICO,unknown,Guadalupe Island,Cage Diving,unknown,unknown,"No injury to divers, shark breached cage",unknown
+2016.09.01,2016,Unprovoked,USA,California,"Refugio State Beach, Santa Barbara County",Spearfishing,M,22,Two toes broken & lacerated,N
+2016.09.04,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Body boarding,M,9,Foot bitten,N
+2016.09.05.a,2016,Unprovoked,AUSTRALIA,Western Australia,Injidup ,Surfing,M,unknown,"No inury, board broken in half by shark",N
+2016.09.05.b,2016,Unprovoked,USA,South Carolina,"Kingston Plantation, Myrtle Beach, Horry County",Boogie boarding,F,12,Lacerations & punctures to lower right leg,N
+2016.09.06,2016,Unprovoked,NEW CALEDONIA,North Province,Koumac,Kite surfing,M,50,FATAL,Y
+2016.09.07,2016,Unprovoked,USA,Hawaii,"Makaha, Oahu",Swimming,F,51,Severe lacerations to shoulder & forearm,N
+2016.09.11,2016,Unprovoked,USA,Florida,"Ponte Vedra, St. Johns County",Wading,M,unknown,Minor injury to arm,N
+2016.09.15,2016,Unprovoked,AUSTRALIA,Victoria,Bells Beach,Surfing,M,unknown,No injury: Knocked off board by shark,N
+2016.09.15.R,2016,Boat,AUSTRALIA,Western Australia,Bunbury,Fishing,unknown,unknown,Shark rammed boat. No injury to occupant,N
+2016.09.17.a,2016,Unprovoked,AUSTRALIA,Victoria,Thirteenth Beach,Surfing,M,unknown,Struck by fin on chest & leg,N
+2016.09.17.b,2016,Unprovoked,USA,California,"Bunkers, Humboldt Bay, Eureka, Humboldt County",Surfing,M,43,"No injury, board bitten",N
+2016.09.18.a,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,43,Lacerations to lower leg,N
+2016.09.18.b,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,36,Lacerations to hands,N
+2016.09.18.c,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,16,Minor injury to thigh,N
+2016.09.26,2016,Unprovoked,AUSTRALIA,New South Wales,"Lighthouse Beach, Ballina",Surfing,M,17,4 deep lacerations to thigh,N
+2016.10.01,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfng,M,32,Minor injuries,N
+2016.10.02,2016,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,21,Cuts to dorsal surface of left foot,N
+2016.10.10,2016,Unprovoked,USA,Oregon,"Indian Beach, Ecola State Park, Clatsop County",Surfing,M,29,Wounds to upper thigh and lower leg,N
+2016.10.12,2016,Unprovoked,AUSTRALIA,New South Wales,"Sharpes Beach, Ballina",Surfing,M,25,Minor wound to lower right leg & surfboard bitten,N
+2016.10.13.R,2016,Invalid,MEXICO,unknown,Guadalupe Island,Cage Diving,M,unknown,"Shark breached cage, no injury to diver",N
+2016.10.14,2016,Unprovoked,USA,Hawaii,"Charlie Young Beach, Kihei, Maui",Snorkeling,F,66,Injuries to left calf,N
+2016.10.15,2016,Unprovoked,AUSTRALIA,Queensland,"Kings Beach, Caloundra",Surfing,M,unknown,Torso nipped,N
+2016.10.21,2016,Unprovoked,USA,Hawaii,"Hooipa Beach Park, Maui",Surfing,M,36,Left arm and leg injured,N
+2016.10.24,2016,Unprovoked,AUSTRALIA,New South Wales,Broken Head Beach,Surfing,M,36,Lacerations to left thigh,N
+2016.10.29,2016,Unprovoked,USA,Florida,Mayport Naval Station  Duval County,Surfing,M,42,Lacerations to right hand,N
+2016.10.30,2016,Unprovoked,USA,Florida,"Mayport Naval Station Beach, Duval County",Surfing,M,41,Lacerations to right foot and ankle,N
+2016.11.14,2016,Unprovoked,USA,Hawaii,"Kamaole Beach Park I, Maui",Floating,F,58,Injuries to right calf and thigh,N
+2016.11.28,2016,Provoked,AUSTRALIA,Victoria,Queenscliff,Fishing,M,73,Laceration to right hand by hooked & gaffed shark. PROVOKED INCIDENT,N
+2016.12.01,2016,Unprovoked,AUSTRALIA,New South Wales,Booti Booti National Park,Surfing,M,65,Injuries to foot & arm,N
+2016.12.06,2016,Provoked,AUSTRALIA,New South Wales,Merimbula,Surf fishing,M,20,Lacerations to both hands while attempting to land a hooked shark PROVOKED INCIDENT,N
+2016.12.10,2016,Unprovoked,England,Suffolk,Felixstowe,Windsurfing,M,36,"No injury, board bitten",N
+2016.12.11,2016,Invalid,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,19,Cuts to right ankle & foot,N
+2016.12.14,2016,Unprovoked,AUSTRALIA,Western Australia,Trigg Beach,Free diving,M,61,Punctures to left foot/ankle,N
+2016.12.19,2016,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms Lagoon, Plettenberg Bay",Surf skiing ,M,55,"No injury, but ski severely damaged",N
+2016.12.24,2016,Unprovoked,AUSTRALIA,Western Australia,"Bundegi Sanctuary Zone, Ningaloo",Snorkeling,F,unknown,Buttock bitten,N
+2016.12.27,2016,Unprovoked,USA,Florida,"Avalon State Park Beach, North Hutchinson Island, St Lucie County",Surfing,M,16,Lacerations to right forearm,N
+2017.01.03,2017,Invalid,AUSTRALIA,New South Wales,Merimbula,Wading,M,20,Minor injuries to foot & toes,N
+2017.01.05,2017,Unprovoked,USA,Florida,"Blockhouse Beach, Brevard County",Wading,M,47,Minor injuries to foot,N
+2017.01.08.R,2017,Invalid,AUSTRALIA,Queensland,unknown,Spearfishing,M,35,"No attack, shark made a threat display",unknown
+2017.01.09,2017,Unprovoked,INDONESIA,Bali,Balian Beach,Surfing,M,48,Injury to right wrist & forearm,N
+2017.01.13.a,2017,Unprovoked,USA,Florida,Jensen Beach,unknown,M,unknown,Minor injury to hand,N
+2017.01.13.b,2017,Unprovoked,AUSTRALIA,Queensland,Clairview,Swimming,M,57,Injury to hand,N
+2017.01.21,2017,Unprovoked,AUSTRALIA,Queensland,"Boot Reef, Torres Strait",Scuba Diving,M,55,"Multiple injuries to arm, wrist and torso",N
+2017.01.22,2017,Unprovoked,USA,Florida,"Vero Beach, Indian River County",unknown,M,unknown,Puncture wounds to lower arm or hand,N
+2017.02.01.a,2017,Unprovoked,BAHAMAS,Bimini,unknown,Scuba Diving,M,37,Lacerations to upper right arm,N
+2017.02.01.b,2017,Boat,USA,South Carolina,16 miles off Hilton Head,Tagging sharks,unknown,unknown,"Shark bit boat, no injury to occupants",N
+2017.02.06.a,2017,Boat,SOUTH AFRICA,KwaZulu-Natal,Eastmoor Crescent Beach,Kayak fishing,M,unknown,"Shark damaged kayak, no injury to occupant",N
+2017.02.06.b,2017,Provoked,BRAZIL,Pernambuco,Fernando de Noronha Marine Park,Grabbing shark for a selfie,F,unknown,"Minor injury to finger, PROVOKED INCIDENT",N
+2017.02.11,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,M,22,Injury to hand,N
+2017.02.17,2017,Unprovoked,AUSTRALIA,Queensland,Eva Rock,Spearfishing,M,26,Left leg severely bitten,N
+2017.02.21,2017,Unprovoked,REUNION,Saint-Andre,unknown,Body boarding,M,26,Fatal,Y
+2017.02.24,2017,Unprovoked,AUSTRALIA,Western Australia,"Falcon Bay Beach, Mandurah",Surfing,M,unknown,"No injury, shark struck board",N
+2017.02.25,2017,Unprovoked,AUSTRALIA,Western Australia,Mauds Point,Snorkeling,F,unknown,Hand bitten,N
+2017.03.09,2017,Unprovoked,BAHAMAS,Great Exuma,unknown,Washing hands,M,58,Abrasions & lacerations to left leg and hand,N
+2017.03.18,2017,Unprovoked,USA,California,Monterey Bay,Kayaking,M,unknown,"No injury, kayak bitten",N
+2017.03.19,2017,Unprovoked,AUSTRALIA,New South Wales,The Farm,Body boarding,M,30,Minor,N
+2017.03.27,2017,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Surfing,M,58,Minor injury to left foot,N
+2017.04.02.a,2017,Unprovoked,USA,Florida,"Destin, Okaloosa County",Swimming,F,17,Abrasions to lower left leg & puncture wounds to right leg,N
+2017.04.02.b,2017,Unprovoked,AUSTRALIA,Queensland,Moreton Bay,Kakaying,M,39,"No injury, shark bit off stern of kayak",N
+2017.04.05,2017,Unprovoked,USA,Florida,"New Smyrna Beach, Volusia County",Swimming,F,51,"Thigh nipped, minor injury",N
+2017.04.06,2017,Unprovoked,USA,Florida,"Daytona, Volusia County",Swimming,M,16,Foot injured,N
+2017.04.10.a,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Swimming,F,21,Minor injury to hand,N
+2017.04.10.b,2017,Unprovoked,USA,Florida,"Melbourne Beach, Brevard County",Paddle boarding,F,10,Laceration to calf,N
+2017.04.11,2017,Unprovoked,USA,Florida,"Ormond Beach, Volusia County",Surfing,F,35,Calf bitten,N
+2017.04.12.a,2017,Invalid,SOUTH AFRICA,KwaZulu-Natal,Protea Banks,Scuba Diving,M,68,"Fatal, coroner unable to determine if the diver was alive or had drowned when incident took place.",unknown
+2017.04.12.b,2017,Unprovoked,USA,Florida,St. Augustine,Surfing,F,unknown,Lacerations to right foot,N
+2017.04.13,2017,Unprovoked,USA,Florida,"Hanna Park, Jacksonville, Duval County",Surfing,M,17,Lacerations to right foot,N
+2017.04.14,2017,Unprovoked,USA,Hawaii,"Kekaha Beach, Kauai",Surfing,M,28,Lower right leg severely injured,N
+2017.04.17.a,2017,Unprovoked,AUSTRALIA,Western Australia,Kelpies near Wylie Bay,Surfing,F,17,FATAL,Y
+2017.04.17.b,2017,Unprovoked,USA,Florida,"Daytona Beach, Volusia County",unknown,unknown,unknown,Minor bite to the foot,N
+2017.04.20,2017,Invalid,USA,South Carolina,Georgetown County,Swimming,M,unknown,Laceration & puncture wounds to left foot,N
+2017.04.22,2017,Unprovoked,"ST HELENA, British overseas territory",Ascension Island,English Bay,Snorkeling,F,40,Calf & foot bitten,N
+2017.04.26,2017,Invalid,USA,Florida,unknown,Photo shoot,F,unknown,Alleged laceration to left ankle,unknown
+2017.04.27,2017,Unprovoked,NEW ZEALAND,South Island,"Porpoise Bay, Catlins",Body boarding,F,unknown,Puncture wounds & laceration above knee,N
+2017.04.29.a,2017,Unprovoked,REUNION,Saint-Leu,Pointe au Sal,Body boarding,M,28,FATAL,Y
+2017.04.29.b,2017,Unprovoked,USA,South Carolina,"Folly Beach, Charleston County",Surfing,F,33,Left foot bitten,N
+2017.04.29.c,2017,Unprovoked,SOUTH AFRICA,Western Cape Province,"Keurbooms, Plettenberg Bay",Surfing,M,14,Minor injury to right calf,N
+2017.04.29.d,2017,Unprovoked,USA,California,"San Onofre, San Diego County ",unknown,F,unknown,Major injury to posterior thigh,N
+2017.05.03,2017,Invalid,USA,California,"Sunset Beach, Orange County",Surfing,F,18,"Laceration to thigh, likely caused by surfboard fin",N
+2017.05.06,2017,Unprovoked,MEXICO,Baja California Sur,"Los Arbolitos, Cabo Pulmo",Snorkeling,M,33,FATAL,Y
+2017.05.06.R,2017,Provoked,AUSTRALIA,Queensland,Weipa,Attempting to lasso a shark,M,29,Thigh nipped PROVOKED INCIDENT,N
+2017.05.12,2017,Unprovoked,UNITED ARAB EMIRATES,"Sharjah, ",Khor Fakkan,Spearfishing,M,41,Right leg severely bitten,N
+2017.05.27,2017,unknown,AUSTRALIA,New South Wales,Evans Head,Fishing ,M,73,Abrasion to right forearm from pectoral fin of a shark that leapt into his boat,N
+2017.05.28,2017,Unprovoked,USA,Florida,Off Jupiter,Feeding sharks,M,unknown,Lacerations to right arm,N
+2017.05.30,2017,Provoked,USA,South Carolina,"Awendaw, Charleston County",Touching a shark,F,20,Right hand bitten by hooked shark PROVOKED INCIDENT,N
+2017.06.02,2017,Unprovoked,BAHAMAS,New Providence ,Athol Island,Snorkeling,F,32,Right forearm severed ,N
+2017.06.04,2017,Unprovoked,USA,Florida,"Middle Sambo Reef off Boca Chica, Monroe County",Spearfishing,M,unknown,Laceration to shin,N
+2017.06.07.R,2017,Unprovoked,UNITED KINGDOM,South Devon,Bantham Beach,Surfing ,M,30,"Bruise to leg, cuts to hand sustained when he hit the shark",N
+2017.06.10.a,2017,Unprovoked,USA,Florida,"Ponce Inlet, Volusia County",Surfing,M,19,Laceration to left foot,N
+2017.06.10.b,2017,Unprovoked,AUSTRALIA,Victoria,"Flinders, Mornington Penisula",Surfing,F,unknown,"No injury, knocke off board",N
+2017.06.11,2017,Unprovoked,AUSTRALIA,Western Australia,"Point Casuarina, Bunbury",Body boarding,M,48,"No injury, board bitten",N
